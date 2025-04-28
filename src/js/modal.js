@@ -13,6 +13,9 @@ function openModal(data, title) {
   modalText = modalText.replace(/【\/equipset】\s*(\d+)/g, (match, number) => {
     return `<a href="#" onclick="openEqModal(event, ${number})">【/equipset】 ${number}</a>`;
   });
+  modalText = modalText.replace(/【\/lockstyleset】\s*(\d+)/g, (match, number) => {
+    return `<a href="#" onclick="openEqModal(event, ${number})">【/lockstyleset】 ${number}</a>`;
+  });
   modalText = modalText.replace(/【/g, '<span style="color:green;">【</span>');
   modalText = modalText.replace(/】/g, '<span style="color:red;">】</span>');
   modalContent.innerHTML = `<h2>${escapeHtml(title)}</h2><pre>${modalText}</pre>`;
