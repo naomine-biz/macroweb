@@ -3,7 +3,7 @@
   "scripts": {
     "prepare-output": "mkdir -p output/js output/css output/data",
     "copy-html": "cp -r src/html/* output/",
-    "minify-js": "npx terser src/js/*.js -o output/js/",
+    "minify-js": "npx terser -o output/js/bundle.in.js src/js/*.js",
     "minify-css": "npx cleancss -o output/css/style.min.css src/css/*.css",
     "gzip-data": "gzip -k src/data/*.json && mv src/data/*.json.gz output/data/",
     "build": "npm run prepare-output && npm run copy-html && npm run minify-js && npm run minify-css && npm run gzip-data"
