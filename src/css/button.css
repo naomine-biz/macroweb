@@ -1,0 +1,35 @@
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  min-height: 50px;
+  width: 100%;
+}
+
+.macro-button {
+  margin: 5px 0;
+  padding: 0;
+  font-size: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  cursor: pointer;
+}
+
+.macro-button.green {
+  background-color: #4CAF50;
+}
+
+.macro-button.blue {
+  background-color: #2196F3;
+}
+
+.macro-button.disabled {
+  background-color: gray;
+  cursor: default;
+}
