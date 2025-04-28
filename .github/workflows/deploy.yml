@@ -29,6 +29,11 @@ jobs:
     - name: Build static files
       run: npm run build
 
+    - name: Embed build time in JST
+      run: |
+        BUILD_TIME=$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S')
+        sed -i "s/__BUILD_TIME__/${BUILD_TIME}/" output/index.html
+
     - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
       with:
