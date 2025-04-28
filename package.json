@@ -1,7 +1,7 @@
 {
   "name": "macroweb",
   "scripts": {
-    "prepare-output": "mkdir -p output",
+    "prepare-output": "mkdir -p output/{js,css,data}",
     "copy-html": "cp -r src/html/* output/",
     "minify-js": "npx terser src/js/*.js -o output/js/",
     "minify-css": "npx cleancss -o output/css/style.min.css src/css/*.css",
