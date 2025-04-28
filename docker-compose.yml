@@ -1,0 +1,22 @@
+services:
+  node:
+    image: node:23.11
+    container_name: node
+    volumes:
+      - ./:/home/node/macroweb
+    working_dir: /home/node/macroweb
+    user: node
+    entrypoint:
+      - npm
+      - install
+  http-server:
+    image: node:23.11
+    container_name: http-server
+    volumes:
+      - ./:/home/node/macroweb
+    working_dir: /home/node/macroweb
+    user: node
+    entrypoint:
+      - /home/node/macroweb/scripts/http-server.sh
+    ports:
+      - "8000:8000"

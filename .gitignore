@@ -1,2 +1,3 @@
 data/*.gz
 node_modules
+output/
