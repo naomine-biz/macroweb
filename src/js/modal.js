@@ -31,7 +31,7 @@ function openEqModal(event, equipsetNumber) {
     eqItem.items.forEach((item, index) => {
       itemList += `${index + 1}: ${escapeHtml(item)}\n`;
     });
-    modalContent.innerHTML = `<h2>【/equipset】 ${eqItem.number}</h2><pre>${itemList}</pre>`;
+    modalContent.innerHTML = `<h2>装備セット ${eqItem.number}</h2><pre>${itemList}</pre>`;
     modal.style.display = 'block';
     overlay.style.display = 'block';
   } else {
