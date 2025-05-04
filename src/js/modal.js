@@ -28,13 +28,14 @@ function openEqModal(event, equipsetNumber) {
   const modal = document.getElementById('modal');
   const overlay = document.getElementById('overlay');
   const modalContent = document.getElementById('modal-content');
-  const eqItem = eqData.find(item => item.number === parseInt(equipsetNumber));
+  const eqItem = eqData.find(item => item.index === parseInt(equipsetNumber));
   if (eqItem) {
     let itemList = '';
-    eqItem.items.forEach((item, index) => {
-      itemList += `${index + 1}: ${escapeHtml(item)}\n`;
+    eqItem.items.forEach(entry => {
+      const name = entry.item || '(空)';
+      itemList += `${entry.index}: ${escapeHtml(name)}\n`;
     });
-    modalContent.innerHTML = `<h2>装備セット ${eqItem.number}</h2><pre>${itemList}</pre>`;
+    modalContent.innerHTML = `<h2>equipset ${eqItem.index} - ${escapeHtml(eqItem.title || '')}</h2><pre>${itemList}</pre>`;
     modal.style.display = 'block';
     overlay.style.display = 'block';
   } else {

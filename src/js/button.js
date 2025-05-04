@@ -5,64 +5,61 @@ function displayButtons(mcData, eqData) {
   toc.innerHTML = '';
   let buttonCount = 0;
   let sectionCount = 1;
-  let buttonsContainer = createButtonContainer();
   const tocList = document.createElement('ul');
   toc.appendChild(tocList);
 
   const isMobile = window.innerWidth <= 600;
   const breakAfter = isMobile ? 5 : 10;
 
-  addSectionHeading(container, tocList, sectionCount);
-  sectionCount++;
+  mcData.forEach((section) => {
+    const sectionTitle = section.name || `【${sectionCount}】`;
+    addSectionHeading(container, tocList, sectionTitle);
+    sectionCount++;
 
-  mcData.forEach((item) => {
-    if (buttonCount > 0 && buttonCount % 200 === 0) {
-      container.appendChild(buttonsContainer);
-      container.appendChild(document.createElement('hr'));
-      addSectionHeading(container, tocList, sectionCount);
-      buttonsContainer = createButtonContainer();
-      sectionCount++;
-    }
+    let buttonsContainer = createButtonContainer();
+    section.palettes.forEach((palette) => {
+      palette.macros.forEach((macro) => {
+        const button = document.createElement('button');
+        button.classList.add('macro-button');
+        const titleText = macro.title;
+        button.textContent = titleText;
 
-    const button = document.createElement('button');
-    button.classList.add('macro-button');
-    const titleText = item.title.join(", ");
-    button.textContent = titleText;
+        if (Math.floor(buttonCount / 10) % 2 === 0) {
+          button.classList.add('green');
+        } else {
+          button.classList.add('blue');
+        }
 
-    if (Math.floor(buttonCount / 10) % 2 === 0) {
-      button.classList.add('green');
-    } else {
-      button.classList.add('blue');
-    }
+        const isDataEmpty = !macro.lines || macro.lines.length === 0;
+        const isTitleEmpty = !titleText.trim();
 
-    const isDataEmpty = !item.data || item.data.length === 0;
-    const isTitleEmpty = !titleText.trim();
+        if (isDataEmpty || isTitleEmpty) {
+          button.classList.add('disabled');
+          button.disabled = true;
+        } else {
+          button.addEventListener('click', () => {
+            openModal(macro.lines, titleText);
+          });
+        }
 
-    if (isDataEmpty || isTitleEmpty) {
-      button.classList.add('disabled');
-      button.disabled = true;
-    } else {
-      button.addEventListener('click', () => {
-        openModal(item.data, titleText);
+        buttonsContainer.appendChild(button);
+        buttonCount++;
+
+        if (buttonCount % 20 === 0) {
+          container.appendChild(buttonsContainer);
+          container.appendChild(document.createElement('hr'));
+          buttonsContainer = createButtonContainer();
+        } else if (buttonCount % breakAfter === 0) {
+          container.appendChild(buttonsContainer);
+          buttonsContainer = createButtonContainer();
+        }
       });
-    }
+    });
 
-    buttonsContainer.appendChild(button);
-    buttonCount++;
-
-    if (buttonCount % 20 === 0) {
+    if (buttonsContainer.children.length > 0) {
       container.appendChild(buttonsContainer);
-      container.appendChild(document.createElement('hr'));
-      buttonsContainer = createButtonContainer();
-    } else if (buttonCount % breakAfter === 0) {
-      container.appendChild(buttonsContainer);
-      buttonsContainer = createButtonContainer();
     }
   });
-
-  if (buttonsContainer.children.length > 0) {
-    container.appendChild(buttonsContainer);
-  }
 }
 
 function createButtonContainer() {

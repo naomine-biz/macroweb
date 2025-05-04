@@ -1,23 +1,19 @@
-document.getElementById('tocToggleBtn').addEventListener('click', function() {
+document.getElementById('tocToggleBtn').addEventListener('click', function () {
   const toc = document.getElementById('toc');
-  if (toc.style.display === 'none' || toc.style.display === '') {
-    toc.style.display = 'block';
-  } else {
-    toc.style.display = 'none';
-  }
+  toc.style.display = (toc.style.display === 'none' || toc.style.display === '') ? 'block' : 'none';
 });
 
-function addSectionHeading(container, tocList, sectionCount) {
-  const sectionId = `section-${sectionCount}`;
+function addSectionHeading(container, tocList, sectionTitle) {
   const heading = document.createElement('h2');
-  heading.id = sectionId;
-  const sectionTitle = sectionTitles[sectionCount] || `【${sectionCount}】`;
   heading.textContent = sectionTitle;
+  heading.id = `section-${sectionTitle}`;
   container.appendChild(heading);
-  const tocItem = document.createElement('li');
-  const tocLink = document.createElement('a');
-  tocLink.href = `#${sectionId}`;
-  tocLink.textContent = sectionTitle;
-  tocItem.appendChild(tocLink);
-  tocList.appendChild(tocItem);
+  if (tocList) {
+    const tocItem = document.createElement('li');
+    const tocLink = document.createElement('a');
+    tocLink.href = `#${heading.id}`;
+    tocLink.textContent = sectionTitle;
+    tocItem.appendChild(tocLink);
+    tocList.appendChild(tocItem);
+  }
 }

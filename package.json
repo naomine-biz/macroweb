@@ -5,9 +5,8 @@
     "copy-html": "cp -r src/html/* output/",
     "minify-js": "npx terser -o output/js/bundle.min.js src/js/*.js",
     "minify-css": "npx cleancss -o output/css/style.min.css src/css/*.css",
-    "gzip-data": "gzip -k src/data/eq.json src/data/mc.json && mv src/data/*.json.gz output/data/",
-    "titles-data": "cp src/data/titles.json output/data/",
-    "build": "npm run prepare-output && npm run copy-html && npm run minify-js && npm run minify-css && npm run gzip-data && npm run titles-data"
+    "gzip-data": "gzip -k src/data/eq.yaml src/data/mc.yaml && mv src/data/*.yaml.gz output/data/",
+    "build": "npm run prepare-output && npm run copy-html && npm run minify-js && npm run minify-css && npm run gzip-data"
   },
   "version": "1.0.0",
   "devDependencies": {
