@@ -1,4 +1,4 @@
-# 2025-05-04 18:10:34
+# 2025-05-05 16:50:28
 - index: 1
   name: WAR
   palettes:
@@ -51228,1644 +51228,6 @@
       - ''
       - ''
       - ''
-  - index: 2
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 3
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 4
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 5
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 6
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 7
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 8
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 9
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 10
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
 - index: 30
   name: Book30
   palettes:
@@ -53236,14 +51598,14 @@
   - index: 3
     macros:
     - index: 1
-      title: 遠隔攻撃
+      title: ''
       lines:
-      - 【/equip】 【頭】 【テーオンシャポー】
-      - 【/equip】 【両手】 【ＬＡガントリー+3】
-      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
-      - 【/equip】 【両足】 【メガナダジャンボ+2】
-      - 【/range】 <t>
-      - 【/equipset】 60 echo 近接遠隔着弾
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 2
       title: ''
       lines:
@@ -53254,94 +51616,94 @@
       - ''
       - ''
     - index: 3
-      title: 暗闇２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【暗闇の術】:弐 <t>
-      - 【/equipset】 51 echo 【敵対心】＋
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 4
-      title: 捕縄２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【捕縄の術】:弐 <t>
-      - 【/equipset】 51 echo 【敵対心】＋
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 5
-      title: レデンst
+      title: ''
       lines:
-      - 【/equipset】 59 echo 【レデンサリュート】
-      - /ws 【レデンサリュート】 <stnpc> <wait>
-      - 【/equipset】 56 echo フルカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: ランダム
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ランダムディール】使います。
-      - /ja 【ランダムディール】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 7
-      title: レデン
+      title: ''
       lines:
-      - /【/party】 ◇【レデンサリュート】(【重力】/【貫通】)→<t>
-      - 【/equipset】 59 echo 【レデンサリュート】
-      - /ws 【レデンサリュート】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 8
-      title: バイパー
+      title: ''
       lines:
-      - /【/party】 ◇【バイパーバイト】(【切断】)→<t>
-      - 【/equipset】 55 echo 【サベッジブレード】
-      - /ws 【バイパーバイト】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 9
-      title: 空蝉１
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:壱 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 10
-      title: 空蝉２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:弐 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 11
-      title: 短剣レデ
+      title: ''
       lines:
-      - 【/equipset】 56 echo フルカット
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【サブウェポン】 【トーレット】
-      - 【/equip】 【レンジウェポン】 【デスペナルティ】
-      - 【/echo】 <recast=【ファントムロール】>
-      - 【/echo】 <recast=クルケッドカード> <recast=【ランダムディール】>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 12
-      title: 敵対心＋
+      title: ''
       lines:
-      - 【/equipset】 51 echo 【敵対心】＋
-      - 【/echo】 ◇◇◇【敵対心】＋（【デスペナルティ】）
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【サブウェポン】 【トーレット】
-      - 【/equip】 【レンジウェポン】 【デスペナルティ】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 13
       title: ''
@@ -53353,261 +51715,261 @@
       - ''
       - ''
     - index: 14
-      title: デスペル
+      title: ''
       lines:
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ダークショット】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: 睡眠
+      title: ''
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ライトショット】 <lastst>
-      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 16
-      title: ワイカ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ワイルドカード】使います
-      - /ja 【ワイルドカード】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 17
-      title: ワイファ
+      title: ''
       lines:
-      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
-      - 【/equipset】 54 echo 【ワイルドファイア】
-      - /ws 【ワイルドファイア】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 18
-      title: ★移動
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ヘルクリアベスト】 1
-      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
-      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
-      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇移動＆【ファランクス】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 19
-      title: ボル短39
+      title: ''
       lines:
-      - 【/equipset】 52 echo 短い【ファントムロール】
-      - /ja ボルターズロール <me> <wait>
-      - 【/equipset】 56 echo フルカット <wait>
-      - 【/equip】 【左手の指】 【シュネデックリング】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: オデC
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
-      - 【/equip】 【右手の指】 【デジョンリング】
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇◇◇ロック＋移動
-      - 【/lockstyleset】 199
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
   - index: 4
     macros:
     - index: 1
-      title: 遠隔攻撃
+      title: ''
       lines:
-      - 【/equip】 【頭】 【テーオンシャポー】
-      - 【/equip】 【両手】 【ＬＡガントリー+3】
-      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
-      - 【/equip】 【両足】 【メガナダジャンボ+2】
-      - 【/range】 <t>
-      - 【/equipset】 60 echo 近接遠隔着弾
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 2
-      title: Dアップ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /ja 【ダブルアップ】 <me> <wait 1>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 3
-      title: 攻撃力48
+      title: ''
       lines:
-      - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【カオスロール】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: ストア26
+      title: ''
       lines:
-      - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【サムライロール】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: フォルド
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /ja 【フォールド】 <me> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: ランダム
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ランダムディール】使います。
-      - /ja 【ランダムディール】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 7
-      title: レデン
+      title: ''
       lines:
-      - /【/party】 ◇【レデンサリュート】(【重力】/【貫通】)→<t>
-      - 【/equipset】 59 echo 【レデンサリュート】
-      - /ws 【レデンサリュート】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 8
-      title: バイパー
+      title: ''
       lines:
-      - /【/party】 ◇【バイパーバイト】(【切断】)→<t>
-      - 【/equipset】 55 echo 【サベッジブレード】
-      - /ws 【バイパーバイト】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 9
-      title: 空蝉１
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:壱 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 10
-      title: 空蝉２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:弐 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 11
-      title: 短剣レデ
+      title: ''
       lines:
-      - 【/equipset】 56 echo フルカット
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【サブウェポン】 【トーレット】
-      - 【/equip】 【レンジウェポン】 【デスペナルティ】
-      - 【/echo】 <recast=【ファントムロール】>
-      - 【/echo】 <recast=クルケッドカード> <recast=【ランダムディール】>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 12
-      title: スネーク
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - 【/grin】 motion <stpt>
-      - /ja 【スネークアイ】 <me> <wait>
-      - /ja 【ダブルアップ】 <me>
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【レンジウェポン】 【デスペナルティ】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 13
-      title: クルケド
+      title: ''
       lines:
-      - /ja クルケッドカード <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: デスペル
+      title: ''
       lines:
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ダークショット】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: 睡眠
+      title: ''
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ライトショット】 <lastst>
-      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 16
-      title: ワイカ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ワイルドカード】使います
-      - /ja 【ワイルドカード】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 17
-      title: ワイファ
+      title: ''
       lines:
-      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
-      - 【/equipset】 54 echo 【ワイルドファイア】
-      - /ws 【ワイルドファイア】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 18
-      title: ★移動
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ヘルクリアベスト】 1
-      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
-      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
-      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇移動＆【ファランクス】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 19
-      title: ボル短39
+      title: ''
       lines:
-      - 【/equipset】 52 echo 短い【ファントムロール】
-      - /ja ボルターズロール <me> <wait>
-      - 【/equipset】 56 echo フルカット <wait>
-      - 【/equip】 【左手の指】 【シュネデックリング】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: オデC
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
-      - 【/equip】 【右手の指】 【デジョンリング】
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇◇◇ロック＋移動
-      - 【/lockstyleset】 199
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
   - index: 5
     macros:
     - index: 1
-      title: 遠隔攻撃
+      title: ''
       lines:
-      - 【/equip】 【頭】 【テーオンシャポー】
-      - 【/equip】 【両手】 【ＬＡガントリー+3】
-      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
-      - 【/equip】 【両足】 【メガナダジャンボ+2】
-      - 【/range】 <t>
-      - 【/equipset】 60 echo 近接遠隔着弾
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 2
       title: ''
       lines:
@@ -53618,23 +51980,23 @@
       - ''
       - ''
     - index: 3
-      title: 暗闇２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【暗闇の術】:弐 <t>
-      - 【/equipset】 51 echo 【敵対心】＋
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 4
-      title: 捕縄２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【捕縄の術】:弐 <t>
-      - 【/equipset】 51 echo 【敵対心】＋
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 5
       title: ''
       lines:
@@ -53645,21 +52007,21 @@
       - ''
       - ''
     - index: 6
-      title: ランダム
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ランダムディール】使います。
-      - /ja 【ランダムディール】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 7
-      title: サベッジ
+      title: ''
       lines:
-      - /【/party】 ◇【サベッジブレード】(【分解】/【切断】)→<t>
-      - 【/equipset】 55 echo 【サベッジブレード】
-      - /ws 【サベッジブレード】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 8
@@ -53672,40 +52034,40 @@
       - ''
       - ''
     - index: 9
-      title: 空蝉１
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:壱 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 10
-      title: 空蝉２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:弐 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 11
-      title: 斬サベ
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/echo】 ◇◇◇ほぼカット（ネイグリング）
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【サブウェポン】 【グレティナイフ】
-      - 【/equip】 【レンジウェポン】 【アナーキー+2】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 12
-      title: 敵対心＋
+      title: ''
       lines:
-      - 【/equipset】 51 echo 【敵対心】＋
-      - 【/echo】 ◇◇◇【敵対心】＋（【ネイグリング】）
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【サブウェポン】 【グレティナイフ】
-      - 【/equip】 【レンジウェポン】 【アナーキー+2】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 13
       title: ''
@@ -53717,131 +52079,131 @@
       - ''
       - ''
     - index: 14
-      title: デスペル
+      title: ''
       lines:
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ダークショット】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: 睡眠
+      title: ''
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ライトショット】 <lastst>
-      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 16
-      title: ワイカ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ワイルドカード】使います
-      - /ja 【ワイルドカード】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 17
-      title: サベッジ
+      title: ''
       lines:
-      - /【/party】 ◇【サベッジブレード】(【分解】/【切断】)→<t>
-      - 【/equipset】 55 echo 【サベッジブレード】
-      - /ws 【サベッジブレード】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 18
-      title: ★移動
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ヘルクリアベスト】 1
-      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
-      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
-      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇移動＆【ファランクス】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 19
-      title: ボル短39
+      title: ''
       lines:
-      - 【/equipset】 52 echo 短い【ファントムロール】
-      - /ja ボルターズロール <me> <wait>
-      - 【/equipset】 56 echo フルカット <wait>
-      - 【/equip】 【左手の指】 【シュネデックリング】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: オデC
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
-      - 【/equip】 【右手の指】 【デジョンリング】
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇◇◇ロック＋移動
-      - 【/lockstyleset】 199
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
   - index: 6
     macros:
     - index: 1
-      title: 遠隔攻撃
+      title: ''
       lines:
-      - 【/equip】 【頭】 【テーオンシャポー】
-      - 【/equip】 【両手】 【ＬＡガントリー+3】
-      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
-      - 【/equip】 【両足】 【メガナダジャンボ+2】
-      - 【/range】 <t>
-      - 【/equipset】 60 echo 近接遠隔着弾
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 2
-      title: Dアップ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /ja 【ダブルアップ】 <me> <wait 1>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 3
-      title: 攻撃力48
+      title: ''
       lines:
-      - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【カオスロール】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: ストア26
+      title: ''
       lines:
-      - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【サムライロール】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: フォルド
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /ja 【フォールド】 <me> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: ランダム
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ランダムディール】使います。
-      - /ja 【ランダムディール】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 7
-      title: サベッジ
+      title: ''
       lines:
-      - /【/party】 ◇【サベッジブレード】(【分解】/【切断】)→<t>
-      - 【/equipset】 55 echo 【サベッジブレード】
-      - /ws 【サベッジブレード】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 8
@@ -53854,124 +52216,124 @@
       - ''
       - ''
     - index: 9
-      title: 空蝉１
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:壱 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 10
-      title: 空蝉２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:弐 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 11
-      title: 斬サベ
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/echo】 ◇◇◇ほぼカット（ネイグリング）
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【サブウェポン】 【グレティナイフ】
-      - 【/equip】 【レンジウェポン】 【アナーキー+2】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 12
-      title: スネーク
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - 【/grin】 motion <stpt>
-      - /ja 【スネークアイ】 <me> <wait>
-      - /ja 【ダブルアップ】 <me>
-      - 【/equip】 【メインウェポン】 【ネイグリング】
-      - 【/equip】 【レンジウェポン】 【アナーキー+2】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 13
-      title: クルケド
+      title: ''
       lines:
-      - /ja クルケッドカード <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: デスペル
+      title: ''
       lines:
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ダークショット】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: 睡眠
+      title: ''
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ライトショット】 <lastst>
-      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 16
-      title: ワイカ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ワイルドカード】使います
-      - /ja 【ワイルドカード】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 17
-      title: サベッジ
+      title: ''
       lines:
-      - /【/party】 ◇【サベッジブレード】(【分解】/【切断】)→<t>
-      - 【/equipset】 55 echo 【サベッジブレード】
-      - /ws 【サベッジブレード】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 18
-      title: ★移動
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ヘルクリアベスト】 1
-      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
-      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
-      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇移動＆【ファランクス】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 19
-      title: ボル短39
+      title: ''
       lines:
-      - 【/equipset】 52 echo 短い【ファントムロール】
-      - /ja ボルターズロール <me> <wait>
-      - 【/equipset】 56 echo フルカット <wait>
-      - 【/equip】 【左手の指】 【シュネデックリング】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: オデC
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
-      - 【/equip】 【右手の指】 【デジョンリング】
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇◇◇ロック＋移動
-      - 【/lockstyleset】 199
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
   - index: 7
     macros:
     - index: 1
-      title: 遠隔攻撃
+      title: ''
       lines:
-      - 【/equip】 【頭】 【テーオンシャポー】
-      - 【/equip】 【両手】 【ＬＡガントリー+3】
-      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
-      - 【/equip】 【両足】 【メガナダジャンボ+2】
-      - 【/range】 <t>
-      - 【/equipset】 60 echo 近接遠隔着弾
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 2
       title: ''
       lines:
@@ -53982,23 +52344,23 @@
       - ''
       - ''
     - index: 3
-      title: 暗闇２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【暗闇の術】:弐 <t>
-      - 【/equipset】 51 echo 【敵対心】＋
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 4
-      title: 捕縄２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【捕縄の術】:弐 <t>
-      - 【/equipset】 51 echo 【敵対心】＋
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 5
       title: ''
       lines:
@@ -54009,67 +52371,67 @@
       - ''
       - ''
     - index: 6
-      title: ランダム
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ランダムディール】使います。
-      - /ja 【ランダムディール】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 7
-      title: ラススタ
+      title: ''
       lines:
-      - /【/party】 ◇【ラストスタンド】(【核熱】/【振動】)→<t>
-      - 【/equipset】 58 echo 近距離ラススタ
-      - /ws 【ラストスタンド】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 8
-      title: ナビング
+      title: ''
       lines:
-      - /【/party】 ◇【ナビングショット】(【硬化】/【炸裂】/【衝撃】)→<t>
-      - 【/equipset】 58 echo 近距離ラススタ
-      - /ws 【ナビングショット】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 9
-      title: 空蝉１
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:壱 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 10
-      title: 空蝉２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:弐 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 11
-      title: フォマル
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/echo】 ◇◇◇ほぼカット（【フォーマルハウト】）
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【サブウェポン】 【グレティナイフ】
-      - 【/equip】 【レンジウェポン】 【フォーマルハウト】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 12
-      title: 敵対心＋
+      title: ''
       lines:
-      - 【/equipset】 51 echo 【敵対心】＋
-      - 【/echo】 ◇◇◇【敵対心】＋（【フォーマルハウト】）
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【サブウェポン】 【グレティナイフ】
-      - 【/equip】 【レンジウェポン】 【フォーマルハウト】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 13
       title: ''
@@ -54081,261 +52443,261 @@
       - ''
       - ''
     - index: 14
-      title: デスペル
+      title: ''
       lines:
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ダークショット】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: 睡眠
+      title: ''
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ライトショット】 <lastst>
-      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 16
-      title: ワイカ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ワイルドカード】使います
-      - /ja 【ワイルドカード】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 17
-      title: ラススタ
+      title: ''
       lines:
-      - /【/party】 ◇【ラストスタンド】(【核熱】/【振動】)→<t>
-      - 【/equipset】 58 echo 近距離ラススタ
-      - /ws 【ラストスタンド】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 18
-      title: ★移動
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ヘルクリアベスト】 1
-      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
-      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
-      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇移動＆【ファランクス】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 19
-      title: ボル短39
+      title: ''
       lines:
-      - 【/equipset】 52 echo 短い【ファントムロール】
-      - /ja ボルターズロール <me> <wait>
-      - 【/equipset】 56 echo フルカット <wait>
-      - 【/equip】 【左手の指】 【シュネデックリング】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: オデC
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
-      - 【/equip】 【右手の指】 【デジョンリング】
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇◇◇ロック＋移動
-      - 【/lockstyleset】 199
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
   - index: 8
     macros:
     - index: 1
-      title: 遠隔攻撃
+      title: ''
       lines:
-      - 【/equip】 【頭】 【テーオンシャポー】
-      - 【/equip】 【両手】 【ＬＡガントリー+3】
-      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
-      - 【/equip】 【両足】 【メガナダジャンボ+2】
-      - 【/range】 <t>
-      - 【/equipset】 60 echo 近接遠隔着弾
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 2
-      title: Dアップ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /ja 【ダブルアップ】 <me> <wait 1>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 3
-      title: 攻撃力48
+      title: ''
       lines:
-      - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【カオスロール】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: ストア26
+      title: ''
       lines:
-      - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【サムライロール】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: フォルド
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /ja 【フォールド】 <me> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: ランダム
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ランダムディール】使います。
-      - /ja 【ランダムディール】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 7
-      title: ラススタ
+      title: ''
       lines:
-      - /【/party】 ◇【ラストスタンド】(【核熱】/【振動】)→<t>
-      - 【/equipset】 58 echo 近距離ラススタ
-      - /ws 【ラストスタンド】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 8
-      title: ナビング
+      title: ''
       lines:
-      - /【/party】 ◇【ナビングショット】(【硬化】/【炸裂】/【衝撃】)→<t>
-      - 【/equipset】 58 echo 近距離ラススタ
-      - /ws 【ナビングショット】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 9
-      title: 空蝉１
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:壱 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 10
-      title: 空蝉２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:弐 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 11
-      title: フォマル
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/echo】 ◇◇◇ほぼカット（【フォーマルハウト】）
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【サブウェポン】 【グレティナイフ】
-      - 【/equip】 【レンジウェポン】 【フォーマルハウト】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 12
-      title: スネーク
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - 【/grin】 motion <stpt>
-      - /ja 【スネークアイ】 <me> <wait>
-      - /ja 【ダブルアップ】 <me>
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【レンジウェポン】 【フォーマルハウト】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 13
-      title: クルケド
+      title: ''
       lines:
-      - /ja クルケッドカード <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: デスペル
+      title: ''
       lines:
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ダークショット】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: 睡眠
+      title: ''
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ライトショット】 <lastst>
-      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 16
-      title: ワイカ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ワイルドカード】使います
-      - /ja 【ワイルドカード】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 17
-      title: ラススタ
+      title: ''
       lines:
-      - /【/party】 ◇【ラストスタンド】(【核熱】/【振動】)→<t>
-      - 【/equipset】 58 echo 近距離ラススタ
-      - /ws 【ラストスタンド】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 18
-      title: ★移動
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ヘルクリアベスト】 1
-      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
-      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
-      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇移動＆【ファランクス】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 19
-      title: ボル短39
+      title: ''
       lines:
-      - 【/equipset】 52 echo 短い【ファントムロール】
-      - /ja ボルターズロール <me> <wait>
-      - 【/equipset】 56 echo フルカット <wait>
-      - 【/equip】 【左手の指】 【シュネデックリング】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: オデC
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
-      - 【/equip】 【右手の指】 【デジョンリング】
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇◇◇ロック＋移動
-      - 【/lockstyleset】 199
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
   - index: 9
     macros:
     - index: 1
-      title: 遠隔攻撃
+      title: ''
       lines:
-      - 【/equip】 【頭】 【テーオンシャポー】
-      - 【/equip】 【両手】 【ＬＡガントリー+3】
-      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
-      - 【/equip】 【両足】 【メガナダジャンボ+2】
-      - 【/range】 <t>
-      - 【/equipset】 60 echo 近接遠隔着弾
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 2
       title: ''
       lines:
@@ -54346,94 +52708,94 @@
       - ''
       - ''
     - index: 3
-      title: 暗闇２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【暗闇の術】:弐 <t>
-      - 【/equipset】 51 echo 【敵対心】＋
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 4
-      title: 捕縄２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【捕縄の術】:弐 <t>
-      - 【/equipset】 51 echo 【敵対心】＋
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 5
-      title: レデンst
+      title: ''
       lines:
-      - 【/equipset】 59 echo 【レデンサリュート】
-      - /ws 【レデンサリュート】 <stnpc> <wait>
-      - 【/equipset】 56 echo フルカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: ランダム
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ランダムディール】使います。
-      - /ja 【ランダムディール】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 7
-      title: ワイファ
+      title: ''
       lines:
-      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
-      - 【/equipset】 54 echo 【ワイルドファイア】
-      - /ws 【ワイルドファイア】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 8
-      title: バイパー
+      title: ''
       lines:
-      - /【/party】 ◇【バイパーバイト】(【切断】)→<t>
-      - 【/equipset】 55 echo 【サベッジブレード】
-      - /ws 【バイパーバイト】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 9
-      title: 空蝉１
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:壱 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 10
-      title: 空蝉２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:弐 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 11
-      title: 短剣アル
+      title: ''
       lines:
-      - 【/equipset】 56 echo フルカット
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【サブウェポン】 【トーレット】
-      - 【/equip】 【レンジウェポン】 【アルマゲドン】
-      - 【/echo】 <recast=【ファントムロール】>
-      - 【/echo】 <recast=クルケッドカード> <recast=【ランダムディール】>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 12
-      title: 敵対心＋
+      title: ''
       lines:
-      - 【/equipset】 51 echo 【敵対心】＋
-      - 【/echo】 ◇◇◇【敵対心】＋（【アルマゲドン】）
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【サブウェポン】 【トーレット】
-      - 【/equip】 【レンジウェポン】 【アルマゲドン】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 13
       title: ''
@@ -54445,1892 +52807,254 @@
       - ''
       - ''
     - index: 14
-      title: デスペル
+      title: ''
       lines:
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ダークショット】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: 睡眠
+      title: ''
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ライトショット】 <lastst>
-      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 16
-      title: ワイカ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ワイルドカード】使います
-      - /ja 【ワイルドカード】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 17
-      title: ワイファ
+      title: ''
       lines:
-      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
-      - 【/equipset】 54 echo 【ワイルドファイア】
-      - /ws 【ワイルドファイア】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 18
-      title: ★移動
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ヘルクリアベスト】 1
-      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
-      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
-      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇移動＆【ファランクス】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 19
-      title: ボル短39
+      title: ''
       lines:
-      - 【/equipset】 52 echo 短い【ファントムロール】
-      - /ja ボルターズロール <me> <wait>
-      - 【/equipset】 56 echo フルカット <wait>
-      - 【/equip】 【左手の指】 【シュネデックリング】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: オデC
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
-      - 【/equip】 【右手の指】 【デジョンリング】
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇◇◇ロック＋移動
-      - 【/lockstyleset】 199
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
   - index: 10
     macros:
     - index: 1
-      title: 遠隔攻撃
+      title: ''
       lines:
-      - 【/equip】 【頭】 【テーオンシャポー】
-      - 【/equip】 【両手】 【ＬＡガントリー+3】
-      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
-      - 【/equip】 【両足】 【メガナダジャンボ+2】
-      - 【/range】 <t>
-      - 【/equipset】 60 echo 近接遠隔着弾
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 2
-      title: Dアップ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /ja 【ダブルアップ】 <me> <wait 1>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 3
-      title: 攻撃力48
+      title: ''
       lines:
-      - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【カオスロール】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: ストア26
+      title: ''
       lines:
-      - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【サムライロール】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: フォルド
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /ja 【フォールド】 <me> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: ランダム
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ランダムディール】使います。
-      - /ja 【ランダムディール】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 7
-      title: ワイファ
+      title: ''
       lines:
-      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
-      - 【/equipset】 54 echo 【ワイルドファイア】
-      - /ws 【ワイルドファイア】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 8
-      title: バイパー
+      title: ''
       lines:
-      - /【/party】 ◇【バイパーバイト】(【切断】)→<t>
-      - 【/equipset】 55 echo 【サベッジブレード】
-      - /ws 【バイパーバイト】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 9
-      title: 空蝉１
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:壱 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 10
-      title: 空蝉２
+      title: ''
       lines:
-      - 【/equip】 【頭】 【カマインマスク+1】
-      - 【/equip】 【胴】 【アデマジャケット+1】
-      - 【/equip】 【両手】 【レイライングローブ】
-      - 【/equip】 【両足】 【カマイングリーヴ+1】
-      - /ma 【空蝉の術】:弐 <me>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 11
-      title: 短剣レデ
+      title: ''
       lines:
-      - 【/equipset】 56 echo フルカット
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【サブウェポン】 【トーレット】
-      - 【/equip】 【レンジウェポン】 【アルマゲドン】
-      - 【/echo】 <recast=【ファントムロール】>
-      - 【/echo】 <recast=クルケッドカード> <recast=【ランダムディール】>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 12
-      title: スネーク
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - 【/grin】 motion <stpt>
-      - /ja 【スネークアイ】 <me> <wait>
-      - /ja 【ダブルアップ】 <me>
-      - 【/equip】 【メインウェポン】 【ロスタム】 4
-      - 【/equip】 【レンジウェポン】 【アルマゲドン】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 13
-      title: クルケド
+      title: ''
       lines:
-      - /ja クルケッドカード <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: デスペル
+      title: ''
       lines:
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ダークショット】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: 睡眠
+      title: ''
       lines:
-      - 【/grin】 motion <stnpc>
-      - 【/equipset】 50 echo 【クイックドロー】
-      - /ja 【ライトショット】 <lastst>
-      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 16
-      title: ワイカ
+      title: ''
       lines:
-      - 【/equipset】 49 echo 【コルセア】【アビリティ】
-      - /p ◇◇◇【ワイルドカード】使います
-      - /ja 【ワイルドカード】 <me> <stpt> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 17
-      title: ワイファ
+      title: ''
       lines:
-      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
-      - 【/equipset】 54 echo 【ワイルドファイア】
-      - /ws 【ワイルドファイア】 <t> <wait>
-      - 【/equipset】 56 echo 二刀流ほぼカット
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 18
-      title: ★移動
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ヘルクリアベスト】 1
-      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
-      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
-      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇移動＆【ファランクス】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 19
-      title: ボル短39
+      title: ''
       lines:
-      - 【/equipset】 52 echo 短い【ファントムロール】
-      - /ja ボルターズロール <me> <wait>
-      - 【/equipset】 56 echo フルカット <wait>
-      - 【/equip】 【左手の指】 【シュネデックリング】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: オデC
+      title: ''
       lines:
-      - 【/equipset】 56 echo 二刀流ほぼカット
-      - 【/wait】 1
-      - 【/equip】 【右手の指】 【デジョンリング】
-      - 【/equip】 【左手の指】 【シュネデックリング】
-      - 【/echo】 ◇◇◇ロック＋移動
-      - 【/lockstyleset】 199
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
 - index: 31
   name: Book31
   palettes:
   - index: 1
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 2
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 3
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 4
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 5
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 6
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 7
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 8
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 9
-    macros:
-    - index: 1
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 2
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 3
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 4
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 5
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 6
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 7
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 8
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 9
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 10
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 11
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 14
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 15
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 16
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 17
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 18
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 19
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 20
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-  - index: 10
     macros:
     - index: 1
       title: ''
@@ -56518,14 +53242,14 @@
   - index: 1
     macros:
     - index: 1
-      title: ''
+      title: 遠隔攻撃
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【テーオンシャポー】
+      - 【/equip】 【両手】 【ＬＡガントリー+3】
+      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
+      - 【/equip】 【両足】 【メガナダジャンボ+2】
+      - 【/range】 <t>
+      - 【/equipset】 60 echo 近接遠隔着弾
     - index: 2
       title: ''
       lines:
@@ -56536,94 +53260,94 @@
       - ''
       - ''
     - index: 3
-      title: ''
+      title: 暗闇２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【暗闇の術】:弐 <t>
+      - 【/equipset】 51 echo 【敵対心】＋
     - index: 4
-      title: ''
+      title: 捕縄２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【捕縄の術】:弐 <t>
+      - 【/equipset】 51 echo 【敵対心】＋
     - index: 5
-      title: ''
+      title: レデンst
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 59 echo 【レデンサリュート】
+      - /ws 【レデンサリュート】 <stnpc> <wait>
+      - 【/equipset】 56 echo フルカット
       - ''
       - ''
       - ''
     - index: 6
-      title: ''
+      title: ランダム
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ランダムディール】使います。
+      - /ja 【ランダムディール】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 7
-      title: ''
+      title: レデン
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【レデンサリュート】(【重力】/【貫通】)→<t>
+      - 【/equipset】 59 echo 【レデンサリュート】
+      - /ws 【レデンサリュート】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 8
-      title: ''
+      title: バイパー
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【バイパーバイト】(【切断】)→<t>
+      - 【/equipset】 55 echo 【サベッジブレード】
+      - /ws 【バイパーバイト】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 9
-      title: ''
+      title: 空蝉１
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:壱 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 10
-      title: ''
+      title: 空蝉２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:弐 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 11
-      title: ''
+      title: 短剣レデ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo フルカット
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【サブウェポン】 【トーレット】
+      - 【/equip】 【レンジウェポン】 【デスペナルティ】
+      - 【/echo】 <recast=【ファントムロール】>
+      - 【/echo】 <recast=クルケッドカード> <recast=【ランダムディール】>
     - index: 12
-      title: ''
+      title: 敵対心＋
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 51 echo 【敵対心】＋
+      - 【/echo】 ◇◇◇【敵対心】＋（【デスペナルティ】）
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【サブウェポン】 【トーレット】
+      - 【/equip】 【レンジウェポン】 【デスペナルティ】
       - ''
     - index: 13
       title: ''
@@ -56635,261 +53359,261 @@
       - ''
       - ''
     - index: 14
-      title: ''
+      title: デスペル
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ダークショット】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: 睡眠
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/grin】 motion <stnpc>
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ライトショット】 <lastst>
+      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
     - index: 16
-      title: ''
+      title: ワイカ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ワイルドカード】使います
+      - /ja 【ワイルドカード】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 17
-      title: ''
+      title: ワイファ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
+      - 【/equipset】 54 echo 【ワイルドファイア】
+      - /ws 【ワイルドファイア】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 18
-      title: ''
+      title: ★移動
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【胴】 【ヘルクリアベスト】 1
+      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
+      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
+      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇移動＆【ファランクス】
     - index: 19
-      title: ''
+      title: ボル短39
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 52 echo 短い【ファントムロール】
+      - /ja ボルターズロール <me> <wait>
+      - 【/equipset】 56 echo フルカット <wait>
+      - 【/equip】 【左手の指】 【シュネデックリング】
       - ''
       - ''
     - index: 20
-      title: ''
+      title: オデC
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/wait】 1
+      - 【/equip】 【右手の指】 【デジョンリング】
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇◇◇ロック＋移動
+      - 【/lockstyleset】 199
   - index: 2
     macros:
     - index: 1
-      title: ''
+      title: 遠隔攻撃
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【テーオンシャポー】
+      - 【/equip】 【両手】 【ＬＡガントリー+3】
+      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
+      - 【/equip】 【両足】 【メガナダジャンボ+2】
+      - 【/range】 <t>
+      - 【/equipset】 60 echo 近接遠隔着弾
     - index: 2
-      title: ''
+      title: Dアップ
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /ja 【ダブルアップ】 <me> <wait 1>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 3
-      title: ''
+      title: 攻撃力48
       lines:
-      - ''
-      - ''
+      - 【/equipset】 57 echo 【ファントムロール】
+      - /ja 【カオスロール】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: ''
+      title: ストア26
       lines:
-      - ''
-      - ''
+      - 【/equipset】 57 echo 【ファントムロール】
+      - /ja 【サムライロール】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: ''
+      title: フォルド
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /ja 【フォールド】 <me> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 6
-      title: ''
+      title: ランダム
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ランダムディール】使います。
+      - /ja 【ランダムディール】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 7
-      title: ''
+      title: レデン
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【レデンサリュート】(【重力】/【貫通】)→<t>
+      - 【/equipset】 59 echo 【レデンサリュート】
+      - /ws 【レデンサリュート】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 8
-      title: ''
+      title: バイパー
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【バイパーバイト】(【切断】)→<t>
+      - 【/equipset】 55 echo 【サベッジブレード】
+      - /ws 【バイパーバイト】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 9
-      title: ''
+      title: 空蝉１
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:壱 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 10
-      title: ''
+      title: 空蝉２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:弐 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 11
-      title: ''
+      title: 短剣レデ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo フルカット
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【サブウェポン】 【トーレット】
+      - 【/equip】 【レンジウェポン】 【デスペナルティ】
+      - 【/echo】 <recast=【ファントムロール】>
+      - 【/echo】 <recast=クルケッドカード> <recast=【ランダムディール】>
     - index: 12
-      title: ''
+      title: スネーク
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - 【/grin】 motion <stpt>
+      - /ja 【スネークアイ】 <me> <wait>
+      - /ja 【ダブルアップ】 <me>
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【レンジウェポン】 【デスペナルティ】
     - index: 13
-      title: ''
+      title: クルケド
       lines:
-      - ''
+      - /ja クルケッドカード <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: ''
+      title: デスペル
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ダークショット】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: 睡眠
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/grin】 motion <stnpc>
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ライトショット】 <lastst>
+      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
     - index: 16
-      title: ''
+      title: ワイカ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ワイルドカード】使います
+      - /ja 【ワイルドカード】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 17
-      title: ''
+      title: ワイファ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
+      - 【/equipset】 54 echo 【ワイルドファイア】
+      - /ws 【ワイルドファイア】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 18
-      title: ''
+      title: ★移動
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【胴】 【ヘルクリアベスト】 1
+      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
+      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
+      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇移動＆【ファランクス】
     - index: 19
-      title: ''
+      title: ボル短39
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 52 echo 短い【ファントムロール】
+      - /ja ボルターズロール <me> <wait>
+      - 【/equipset】 56 echo フルカット <wait>
+      - 【/equip】 【左手の指】 【シュネデックリング】
       - ''
       - ''
     - index: 20
-      title: ''
+      title: オデC
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/wait】 1
+      - 【/equip】 【右手の指】 【デジョンリング】
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇◇◇ロック＋移動
+      - 【/lockstyleset】 199
   - index: 3
     macros:
     - index: 1
-      title: ''
+      title: 遠隔攻撃
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【テーオンシャポー】
+      - 【/equip】 【両手】 【ＬＡガントリー+3】
+      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
+      - 【/equip】 【両足】 【メガナダジャンボ+2】
+      - 【/range】 <t>
+      - 【/equipset】 60 echo 近接遠隔着弾
     - index: 2
       title: ''
       lines:
@@ -56900,23 +53624,23 @@
       - ''
       - ''
     - index: 3
-      title: ''
+      title: 暗闇２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【暗闇の術】:弐 <t>
+      - 【/equipset】 51 echo 【敵対心】＋
     - index: 4
-      title: ''
+      title: 捕縄２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【捕縄の術】:弐 <t>
+      - 【/equipset】 51 echo 【敵対心】＋
     - index: 5
       title: ''
       lines:
@@ -56927,21 +53651,21 @@
       - ''
       - ''
     - index: 6
-      title: ''
+      title: ランダム
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ランダムディール】使います。
+      - /ja 【ランダムディール】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 7
-      title: ''
+      title: サベッジ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【サベッジブレード】(【分解】/【切断】)→<t>
+      - 【/equipset】 55 echo 【サベッジブレード】
+      - /ws 【サベッジブレード】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 8
@@ -56954,40 +53678,40 @@
       - ''
       - ''
     - index: 9
-      title: ''
+      title: 空蝉１
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:壱 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 10
-      title: ''
+      title: 空蝉２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:弐 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 11
-      title: ''
+      title: 斬サベ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/echo】 ◇◇◇ほぼカット（ネイグリング）
+      - 【/equip】 【メインウェポン】 【ネイグリング】
+      - 【/equip】 【サブウェポン】 【グレティナイフ】
+      - 【/equip】 【レンジウェポン】 【アナーキー+2】
       - ''
     - index: 12
-      title: ''
+      title: 敵対心＋
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 51 echo 【敵対心】＋
+      - 【/echo】 ◇◇◇【敵対心】＋（【ネイグリング】）
+      - 【/equip】 【メインウェポン】 【ネイグリング】
+      - 【/equip】 【サブウェポン】 【グレティナイフ】
+      - 【/equip】 【レンジウェポン】 【アナーキー+2】
       - ''
     - index: 13
       title: ''
@@ -56999,131 +53723,131 @@
       - ''
       - ''
     - index: 14
-      title: ''
+      title: デスペル
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ダークショット】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: 睡眠
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/grin】 motion <stnpc>
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ライトショット】 <lastst>
+      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
     - index: 16
-      title: ''
+      title: ワイカ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ワイルドカード】使います
+      - /ja 【ワイルドカード】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 17
-      title: ''
+      title: サベッジ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【サベッジブレード】(【分解】/【切断】)→<t>
+      - 【/equipset】 55 echo 【サベッジブレード】
+      - /ws 【サベッジブレード】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 18
-      title: ''
+      title: ★移動
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【胴】 【ヘルクリアベスト】 1
+      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
+      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
+      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇移動＆【ファランクス】
     - index: 19
-      title: ''
+      title: ボル短39
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 52 echo 短い【ファントムロール】
+      - /ja ボルターズロール <me> <wait>
+      - 【/equipset】 56 echo フルカット <wait>
+      - 【/equip】 【左手の指】 【シュネデックリング】
       - ''
       - ''
     - index: 20
-      title: ''
+      title: オデC
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/wait】 1
+      - 【/equip】 【右手の指】 【デジョンリング】
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇◇◇ロック＋移動
+      - 【/lockstyleset】 199
   - index: 4
     macros:
     - index: 1
-      title: ''
+      title: 遠隔攻撃
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【テーオンシャポー】
+      - 【/equip】 【両手】 【ＬＡガントリー+3】
+      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
+      - 【/equip】 【両足】 【メガナダジャンボ+2】
+      - 【/range】 <t>
+      - 【/equipset】 60 echo 近接遠隔着弾
     - index: 2
-      title: ''
+      title: Dアップ
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /ja 【ダブルアップ】 <me> <wait 1>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 3
-      title: ''
+      title: 攻撃力48
       lines:
-      - ''
-      - ''
+      - 【/equipset】 57 echo 【ファントムロール】
+      - /ja 【カオスロール】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: ''
+      title: ストア26
       lines:
-      - ''
-      - ''
+      - 【/equipset】 57 echo 【ファントムロール】
+      - /ja 【サムライロール】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: ''
+      title: フォルド
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /ja 【フォールド】 <me> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 6
-      title: ''
+      title: ランダム
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ランダムディール】使います。
+      - /ja 【ランダムディール】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 7
-      title: ''
+      title: サベッジ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【サベッジブレード】(【分解】/【切断】)→<t>
+      - 【/equipset】 55 echo 【サベッジブレード】
+      - /ws 【サベッジブレード】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 8
@@ -57136,124 +53860,124 @@
       - ''
       - ''
     - index: 9
-      title: ''
+      title: 空蝉１
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:壱 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 10
-      title: ''
+      title: 空蝉２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:弐 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 11
-      title: ''
+      title: 斬サベ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/echo】 ◇◇◇ほぼカット（ネイグリング）
+      - 【/equip】 【メインウェポン】 【ネイグリング】
+      - 【/equip】 【サブウェポン】 【グレティナイフ】
+      - 【/equip】 【レンジウェポン】 【アナーキー+2】
       - ''
     - index: 12
-      title: ''
+      title: スネーク
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - 【/grin】 motion <stpt>
+      - /ja 【スネークアイ】 <me> <wait>
+      - /ja 【ダブルアップ】 <me>
+      - 【/equip】 【メインウェポン】 【ネイグリング】
+      - 【/equip】 【レンジウェポン】 【アナーキー+2】
     - index: 13
-      title: ''
+      title: クルケド
       lines:
-      - ''
+      - /ja クルケッドカード <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: ''
+      title: デスペル
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ダークショット】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: 睡眠
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/grin】 motion <stnpc>
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ライトショット】 <lastst>
+      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
     - index: 16
-      title: ''
+      title: ワイカ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ワイルドカード】使います
+      - /ja 【ワイルドカード】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 17
-      title: ''
+      title: サベッジ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【サベッジブレード】(【分解】/【切断】)→<t>
+      - 【/equipset】 55 echo 【サベッジブレード】
+      - /ws 【サベッジブレード】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 18
-      title: ''
+      title: ★移動
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【胴】 【ヘルクリアベスト】 1
+      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
+      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
+      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇移動＆【ファランクス】
     - index: 19
-      title: ''
+      title: ボル短39
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 52 echo 短い【ファントムロール】
+      - /ja ボルターズロール <me> <wait>
+      - 【/equipset】 56 echo フルカット <wait>
+      - 【/equip】 【左手の指】 【シュネデックリング】
       - ''
       - ''
     - index: 20
-      title: ''
+      title: オデC
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/wait】 1
+      - 【/equip】 【右手の指】 【デジョンリング】
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇◇◇ロック＋移動
+      - 【/lockstyleset】 199
   - index: 5
     macros:
     - index: 1
-      title: ''
+      title: 遠隔攻撃
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【テーオンシャポー】
+      - 【/equip】 【両手】 【ＬＡガントリー+3】
+      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
+      - 【/equip】 【両足】 【メガナダジャンボ+2】
+      - 【/range】 <t>
+      - 【/equipset】 60 echo 近接遠隔着弾
     - index: 2
       title: ''
       lines:
@@ -57264,23 +53988,23 @@
       - ''
       - ''
     - index: 3
-      title: ''
+      title: 暗闇２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【暗闇の術】:弐 <t>
+      - 【/equipset】 51 echo 【敵対心】＋
     - index: 4
-      title: ''
+      title: 捕縄２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【捕縄の術】:弐 <t>
+      - 【/equipset】 51 echo 【敵対心】＋
     - index: 5
       title: ''
       lines:
@@ -57291,67 +54015,67 @@
       - ''
       - ''
     - index: 6
-      title: ''
+      title: ランダム
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ランダムディール】使います。
+      - /ja 【ランダムディール】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 7
-      title: ''
+      title: ラススタ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ラストスタンド】(【核熱】/【振動】)→<t>
+      - 【/equipset】 58 echo 近距離ラススタ
+      - /ws 【ラストスタンド】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 8
-      title: ''
+      title: ナビング
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ナビングショット】(【硬化】/【炸裂】/【衝撃】)→<t>
+      - 【/equipset】 58 echo 近距離ラススタ
+      - /ws 【ナビングショット】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 9
-      title: ''
+      title: 空蝉１
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:壱 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 10
-      title: ''
+      title: 空蝉２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:弐 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 11
-      title: ''
+      title: フォマル
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/echo】 ◇◇◇ほぼカット（【フォーマルハウト】）
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【サブウェポン】 【グレティナイフ】
+      - 【/equip】 【レンジウェポン】 【フォーマルハウト】
       - ''
     - index: 12
-      title: ''
+      title: 敵対心＋
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 51 echo 【敵対心】＋
+      - 【/echo】 ◇◇◇【敵対心】＋（【フォーマルハウト】）
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【サブウェポン】 【グレティナイフ】
+      - 【/equip】 【レンジウェポン】 【フォーマルハウト】
       - ''
     - index: 13
       title: ''
@@ -57363,261 +54087,261 @@
       - ''
       - ''
     - index: 14
-      title: ''
+      title: デスペル
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ダークショット】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: 睡眠
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/grin】 motion <stnpc>
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ライトショット】 <lastst>
+      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
     - index: 16
-      title: ''
+      title: ワイカ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ワイルドカード】使います
+      - /ja 【ワイルドカード】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 17
-      title: ''
+      title: ラススタ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ラストスタンド】(【核熱】/【振動】)→<t>
+      - 【/equipset】 58 echo 近距離ラススタ
+      - /ws 【ラストスタンド】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 18
-      title: ''
+      title: ★移動
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【胴】 【ヘルクリアベスト】 1
+      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
+      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
+      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇移動＆【ファランクス】
     - index: 19
-      title: ''
+      title: ボル短39
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 52 echo 短い【ファントムロール】
+      - /ja ボルターズロール <me> <wait>
+      - 【/equipset】 56 echo フルカット <wait>
+      - 【/equip】 【左手の指】 【シュネデックリング】
       - ''
       - ''
     - index: 20
-      title: ''
+      title: オデC
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/wait】 1
+      - 【/equip】 【右手の指】 【デジョンリング】
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇◇◇ロック＋移動
+      - 【/lockstyleset】 199
   - index: 6
     macros:
     - index: 1
-      title: ''
+      title: 遠隔攻撃
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【テーオンシャポー】
+      - 【/equip】 【両手】 【ＬＡガントリー+3】
+      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
+      - 【/equip】 【両足】 【メガナダジャンボ+2】
+      - 【/range】 <t>
+      - 【/equipset】 60 echo 近接遠隔着弾
     - index: 2
-      title: ''
+      title: Dアップ
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /ja 【ダブルアップ】 <me> <wait 1>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 3
-      title: ''
+      title: 攻撃力48
       lines:
-      - ''
-      - ''
+      - 【/equipset】 57 echo 【ファントムロール】
+      - /ja 【カオスロール】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: ''
+      title: ストア26
       lines:
-      - ''
-      - ''
+      - 【/equipset】 57 echo 【ファントムロール】
+      - /ja 【サムライロール】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: ''
+      title: フォルド
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /ja 【フォールド】 <me> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 6
-      title: ''
+      title: ランダム
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ランダムディール】使います。
+      - /ja 【ランダムディール】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 7
-      title: ''
+      title: ラススタ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ラストスタンド】(【核熱】/【振動】)→<t>
+      - 【/equipset】 58 echo 近距離ラススタ
+      - /ws 【ラストスタンド】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 8
-      title: ''
+      title: ナビング
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ナビングショット】(【硬化】/【炸裂】/【衝撃】)→<t>
+      - 【/equipset】 58 echo 近距離ラススタ
+      - /ws 【ナビングショット】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 9
-      title: ''
+      title: 空蝉１
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:壱 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 10
-      title: ''
+      title: 空蝉２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:弐 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 11
-      title: ''
+      title: フォマル
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/echo】 ◇◇◇ほぼカット（【フォーマルハウト】）
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【サブウェポン】 【グレティナイフ】
+      - 【/equip】 【レンジウェポン】 【フォーマルハウト】
       - ''
     - index: 12
-      title: ''
+      title: スネーク
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - 【/grin】 motion <stpt>
+      - /ja 【スネークアイ】 <me> <wait>
+      - /ja 【ダブルアップ】 <me>
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【レンジウェポン】 【フォーマルハウト】
     - index: 13
-      title: ''
+      title: クルケド
       lines:
-      - ''
+      - /ja クルケッドカード <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: ''
+      title: デスペル
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ダークショット】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: 睡眠
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/grin】 motion <stnpc>
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ライトショット】 <lastst>
+      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
     - index: 16
-      title: ''
+      title: ワイカ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ワイルドカード】使います
+      - /ja 【ワイルドカード】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 17
-      title: ''
+      title: ラススタ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ラストスタンド】(【核熱】/【振動】)→<t>
+      - 【/equipset】 58 echo 近距離ラススタ
+      - /ws 【ラストスタンド】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 18
-      title: ''
+      title: ★移動
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【胴】 【ヘルクリアベスト】 1
+      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
+      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
+      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇移動＆【ファランクス】
     - index: 19
-      title: ''
+      title: ボル短39
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 52 echo 短い【ファントムロール】
+      - /ja ボルターズロール <me> <wait>
+      - 【/equipset】 56 echo フルカット <wait>
+      - 【/equip】 【左手の指】 【シュネデックリング】
       - ''
       - ''
     - index: 20
-      title: ''
+      title: オデC
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/wait】 1
+      - 【/equip】 【右手の指】 【デジョンリング】
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇◇◇ロック＋移動
+      - 【/lockstyleset】 199
   - index: 7
     macros:
     - index: 1
-      title: ''
+      title: 遠隔攻撃
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【テーオンシャポー】
+      - 【/equip】 【両手】 【ＬＡガントリー+3】
+      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
+      - 【/equip】 【両足】 【メガナダジャンボ+2】
+      - 【/range】 <t>
+      - 【/equipset】 60 echo 近接遠隔着弾
     - index: 2
       title: ''
       lines:
@@ -57628,94 +54352,94 @@
       - ''
       - ''
     - index: 3
-      title: ''
+      title: 暗闇２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【暗闇の術】:弐 <t>
+      - 【/equipset】 51 echo 【敵対心】＋
     - index: 4
-      title: ''
+      title: 捕縄２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【捕縄の術】:弐 <t>
+      - 【/equipset】 51 echo 【敵対心】＋
     - index: 5
-      title: ''
+      title: レデンst
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 59 echo 【レデンサリュート】
+      - /ws 【レデンサリュート】 <stnpc> <wait>
+      - 【/equipset】 56 echo フルカット
       - ''
       - ''
       - ''
     - index: 6
-      title: ''
+      title: ランダム
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ランダムディール】使います。
+      - /ja 【ランダムディール】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 7
-      title: ''
+      title: ワイファ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
+      - 【/equipset】 54 echo 【ワイルドファイア】
+      - /ws 【ワイルドファイア】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 8
-      title: ''
+      title: バイパー
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【バイパーバイト】(【切断】)→<t>
+      - 【/equipset】 55 echo 【サベッジブレード】
+      - /ws 【バイパーバイト】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 9
-      title: ''
+      title: 空蝉１
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:壱 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 10
-      title: ''
+      title: 空蝉２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:弐 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 11
-      title: ''
+      title: 短剣アル
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo フルカット
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【サブウェポン】 【トーレット】
+      - 【/equip】 【レンジウェポン】 【アルマゲドン】
+      - 【/echo】 <recast=【ファントムロール】>
+      - 【/echo】 <recast=クルケッドカード> <recast=【ランダムディール】>
     - index: 12
-      title: ''
+      title: 敵対心＋
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 51 echo 【敵対心】＋
+      - 【/echo】 ◇◇◇【敵対心】＋（【アルマゲドン】）
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【サブウェポン】 【トーレット】
+      - 【/equip】 【レンジウェポン】 【アルマゲドン】
       - ''
     - index: 13
       title: ''
@@ -57727,250 +54451,250 @@
       - ''
       - ''
     - index: 14
-      title: ''
+      title: デスペル
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ダークショット】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: 睡眠
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/grin】 motion <stnpc>
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ライトショット】 <lastst>
+      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
     - index: 16
-      title: ''
+      title: ワイカ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ワイルドカード】使います
+      - /ja 【ワイルドカード】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 17
-      title: ''
+      title: ワイファ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
+      - 【/equipset】 54 echo 【ワイルドファイア】
+      - /ws 【ワイルドファイア】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 18
-      title: ''
+      title: ★移動
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【胴】 【ヘルクリアベスト】 1
+      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
+      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
+      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇移動＆【ファランクス】
     - index: 19
-      title: ''
+      title: ボル短39
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 52 echo 短い【ファントムロール】
+      - /ja ボルターズロール <me> <wait>
+      - 【/equipset】 56 echo フルカット <wait>
+      - 【/equip】 【左手の指】 【シュネデックリング】
       - ''
       - ''
     - index: 20
-      title: ''
+      title: オデC
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/wait】 1
+      - 【/equip】 【右手の指】 【デジョンリング】
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇◇◇ロック＋移動
+      - 【/lockstyleset】 199
   - index: 8
     macros:
     - index: 1
-      title: ''
+      title: 遠隔攻撃
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【テーオンシャポー】
+      - 【/equip】 【両手】 【ＬＡガントリー+3】
+      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
+      - 【/equip】 【両足】 【メガナダジャンボ+2】
+      - 【/range】 <t>
+      - 【/equipset】 60 echo 近接遠隔着弾
     - index: 2
-      title: ''
+      title: Dアップ
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /ja 【ダブルアップ】 <me> <wait 1>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 3
-      title: ''
+      title: 攻撃力48
       lines:
-      - ''
-      - ''
+      - 【/equipset】 57 echo 【ファントムロール】
+      - /ja 【カオスロール】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 4
-      title: ''
+      title: ストア26
       lines:
-      - ''
-      - ''
+      - 【/equipset】 57 echo 【ファントムロール】
+      - /ja 【サムライロール】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: ''
+      title: フォルド
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /ja 【フォールド】 <me> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 6
-      title: ''
+      title: ランダム
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ランダムディール】使います。
+      - /ja 【ランダムディール】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 7
-      title: ''
+      title: ワイファ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
+      - 【/equipset】 54 echo 【ワイルドファイア】
+      - /ws 【ワイルドファイア】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 8
-      title: ''
+      title: バイパー
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【バイパーバイト】(【切断】)→<t>
+      - 【/equipset】 55 echo 【サベッジブレード】
+      - /ws 【バイパーバイト】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 9
-      title: ''
+      title: 空蝉１
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:壱 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 10
-      title: ''
+      title: 空蝉２
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【頭】 【カマインマスク+1】
+      - 【/equip】 【胴】 【アデマジャケット+1】
+      - 【/equip】 【両手】 【レイライングローブ】
+      - 【/equip】 【両足】 【カマイングリーヴ+1】
+      - /ma 【空蝉の術】:弐 <me>
+      - 【/equipset】 56 echo 二刀流ほぼカット
     - index: 11
-      title: ''
+      title: 短剣レデ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo フルカット
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【サブウェポン】 【トーレット】
+      - 【/equip】 【レンジウェポン】 【アルマゲドン】
+      - 【/echo】 <recast=【ファントムロール】>
+      - 【/echo】 <recast=クルケッドカード> <recast=【ランダムディール】>
     - index: 12
-      title: ''
+      title: スネーク
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - 【/grin】 motion <stpt>
+      - /ja 【スネークアイ】 <me> <wait>
+      - /ja 【ダブルアップ】 <me>
+      - 【/equip】 【メインウェポン】 【ロスタム】 4
+      - 【/equip】 【レンジウェポン】 【アルマゲドン】
     - index: 13
-      title: ''
+      title: クルケド
       lines:
-      - ''
+      - /ja クルケッドカード <me>
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: ''
+      title: デスペル
       lines:
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ダークショット】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: 睡眠
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/grin】 motion <stnpc>
+      - 【/equipset】 50 echo 【クイックドロー】
+      - /ja 【ライトショット】 <lastst>
+      - /p ◇【ライトショット】：【睡眠】→<lastst> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
     - index: 16
-      title: ''
+      title: ワイカ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 49 echo 【コルセア】【アビリティ】
+      - /p ◇◇◇【ワイルドカード】使います
+      - /ja 【ワイルドカード】 <me> <stpt> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 17
-      title: ''
+      title: ワイファ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - /【/party】 ◇【ワイルドファイア】(【闇】/【重力】)→<t>
+      - 【/equipset】 54 echo 【ワイルドファイア】
+      - /ws 【ワイルドファイア】 <t> <wait>
+      - 【/equipset】 56 echo 二刀流ほぼカット
       - ''
       - ''
     - index: 18
-      title: ''
+      title: ★移動
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【胴】 【ヘルクリアベスト】 1
+      - 【/equip】 【両手】 【ヘルクリアグローブ】 1
+      - 【/equip】 【両脚】 【ヘルクリアトラウザ】 1
+      - 【/equip】 【両足】 【ヘルクリアブーツ】 1
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇移動＆【ファランクス】
     - index: 19
-      title: ''
+      title: ボル短39
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 52 echo 短い【ファントムロール】
+      - /ja ボルターズロール <me> <wait>
+      - 【/equipset】 56 echo フルカット <wait>
+      - 【/equip】 【左手の指】 【シュネデックリング】
       - ''
       - ''
     - index: 20
-      title: ''
+      title: オデC
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 56 echo 二刀流ほぼカット
+      - 【/wait】 1
+      - 【/equip】 【右手の指】 【デジョンリング】
+      - 【/equip】 【左手の指】 【シュネデックリング】
+      - 【/echo】 ◇◇◇ロック＋移動
+      - 【/lockstyleset】 199
   - index: 9
     macros:
     - index: 1
@@ -69459,6 +66183,3285 @@
       - ''
       - ''
   - index: 2
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 3
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 4
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 5
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 6
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 7
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 8
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 9
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 10
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+- index: 40
+  name: Book40
+  palettes:
+  - index: 1
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 2
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 3
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 4
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 5
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 6
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 7
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 8
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 9
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 10
     macros:
     - index: 1
       title: ''
