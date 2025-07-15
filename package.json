@@ -3,7 +3,7 @@
   "scripts": {
     "prepare-output": "mkdir -p output/js output/css output/data",
     "copy-html": "cp -r src/html/* output/",
-    "minify-js": "npx terser -o output/js/bundle.min.js src/js/*.js",
+    "minify-js": "npx terser -o output/js/bundle.min.js src/js/modal.js src/js/ui.js src/js/scrollTopBtn.js src/js/main.js",
     "minify-css": "npx cleancss -o output/css/style.min.css src/css/*.css",
     "gzip-data": "gzip -k src/data/eq.yaml src/data/mc.yaml && mv src/data/*.yaml.gz output/data/",
     "build": "npm run prepare-output && npm run copy-html && npm run minify-js && npm run minify-css && npm run gzip-data"

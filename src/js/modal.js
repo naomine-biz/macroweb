@@ -4,26 +4,36 @@ function escapeHtml(text) {
              .replace(/>/g, '&gt;');
 }
 
-function openModal(data, title) {
+function openModal(data, title, eqData) {
   const modal = document.getElementById('modal');
   const overlay = document.getElementById('overlay');
   const modalContent = document.getElementById('modal-content');
   let modalText = data.join("\n");
   modalText = escapeHtml(modalText);
+
   modalText = modalText.replace(/【\/equipset】\s*(\d+)/g, (match, number) => {
-    return `<a href="#" onclick="openEqModal(event, ${number})">【/equipset】 ${number}</a>`;
+    return `<a href="#" class="equipset-link" data-equipset-number="${number}">【/equipset】 ${number}</a>`;
   });
   modalText = modalText.replace(/【\/lockstyleset】\s*(\d+)/g, (match, number) => {
-    return `<a href="#" onclick="openEqModal(event, ${number})">【/lockstyleset】 ${number}</a>`;
+    return `<a href="#" class="equipset-link" data-equipset-number="${number}">【/lockstyleset】 ${number}</a>`;
   });
+
   modalText = modalText.replace(/【/g, '<span style="color:green;">【</span>');
   modalText = modalText.replace(/】/g, '<span style="color:red;">】</span>');
   modalContent.innerHTML = `<h2>${escapeHtml(title)}</h2><pre>${modalText}</pre>`;
+
+  modalContent.querySelectorAll('.equipset-link').forEach(link => {
+    link.addEventListener('click', (event) => {
+      const equipsetNumber = link.dataset.equipsetNumber;
+      openEqModal(event, equipsetNumber, eqData);
+    });
+  });
+
   modal.style.display = 'block';
   overlay.style.display = 'block';
 }
 
-function openEqModal(event, equipsetNumber) {
+function openEqModal(event, equipsetNumber, eqData) {
   event.preventDefault();
   const modal = document.getElementById('modal');
   const overlay = document.getElementById('overlay');
@@ -47,5 +57,3 @@ function closeModal() {
   document.getElementById('modal').style.display = 'none';
   document.getElementById('overlay').style.display = 'none';
 }
-
-document.getElementById('overlay').addEventListener('click', closeModal);
