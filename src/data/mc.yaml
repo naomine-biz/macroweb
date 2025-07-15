@@ -1,4 +1,4 @@
-# 2025-05-05 16:50:28
+# 2025-07-11 00:45:59
 - index: 1
   name: WAR
   palettes:
@@ -50,21 +50,21 @@
       - ''
       - ''
     - index: 6
-      title: アマブレ
+      title: スチサイ
       lines:
-      - 【/equipset】 151 echo 魔命
-      - /p ◇【アーマーブレイク】→<t>
-      - /ws 【アーマーブレイク】 <t> <wait>
+      - 【/equipset】 145 echo 【サベッジブレード】
+      - 【/checkparam】 <me>
+      - //p ◇【スチールサイクロン】(【湾曲】/【炸裂】)→<t>
+      - /ws 【スチールサイクロン】 <t> <wait>
       - 【/equipset】 141 echo DA100%
       - ''
-      - ''
     - index: 7
-      title: アップル
+      title: ウッコ
       lines:
-      - 【/equipset】 143 echo 【アップヒーバル】
+      - 【/equipset】 149 echo 【ウッコフューリー】
       - 【/checkparam】 <me>
-      - //p ◇【アップヒーバル】(【核熱】/【収縮】)→<t>
-      - /ws 【アップヒーバル】 <t> <wait>
+      - //p ◇【ウッコフューリー】(【光】/【分解】)→<t>
+      - /ws 【ウッコフューリー】 <t> <wait>
       - 【/equipset】 141 echo DA100%
       - ''
     - index: 8
@@ -149,12 +149,12 @@
       - ''
       - ''
     - index: 17
-      title: ウッコ
+      title: アップル
       lines:
-      - 【/equipset】 149 echo 【ウッコフューリー】
+      - 【/equipset】 143 echo 【アップヒーバル】
       - 【/checkparam】 <me>
-      - //p ◇【ウッコフューリー】(【光】/【分解】)→<t>
-      - /ws 【ウッコフューリー】 <t> <wait>
+      - //p ◇【アップヒーバル】(【核熱】/【収縮】)→<t>
+      - /ws 【アップヒーバル】 <t> <wait>
       - 【/equipset】 141 echo DA100%
       - ''
     - index: 18
@@ -170,7 +170,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -286,14 +286,14 @@
       - //p <recast=【ウォークライ】> <recast=【ブラッドレイジ】>
       - 【/checkparam】 <me>
     - index: 12
-      title: ラブラB
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇【ラブラウンダ】B
-      - 【/equipset】 141 echo DA100%
-      - 【/equip】 【メインウェポン】 【ラブラウンダ】
-      - 【/equip】 【サブウェポン】 【ウトゥグリップ】 4
-      - //p <recast=【ウォークライ】> <recast=【ブラッドレイジ】>
-      - 【/checkparam】 <me>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 13
       title: 心眼
       lines:
@@ -352,7 +352,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -534,7 +534,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -716,7 +716,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -898,7 +898,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -924,13 +924,13 @@
       - ''
       - ''
     - index: 2
-      title: クラウド
+      title: ''
       lines:
-      - 【/equipset】 150 echo 属性WS
-      - 【/checkparam】 <me>
-      - //p ◇→<t>
-      - /ws 【クラウドスプリッタ】 <t> <wait>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 3
       title: バーサク
@@ -1059,12 +1059,12 @@
       - ''
       - ''
     - index: 17
-      title: ミスト
+      title: カラミ
       lines:
       - 【/equipset】 145 echo 【サベッジブレード】
       - 【/checkparam】 <me>
       - //p ◇【カラミティ】(【切断】/【衝撃】)→<t>
-      - /ws 【ミストラルアクス】 <t> <wait>
+      - /ws 【カラミティ】 <t> <wait>
       - 【/equipset】 141 echo DA100%
       - ''
     - index: 18
@@ -1080,7 +1080,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -1262,7 +1262,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -1279,181 +1279,181 @@
   - index: 8
     macros:
     - index: 1
-      title: 挑発(強)
+      title: ''
       lines:
-      - 【/equipset】 152 echo 敵対心＋
-      - /ja 挑発 <t> <wait>
-      - 【/equipset】 156 echo 【ストアTP】
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 2
-      title: 星眼心眼
+      title: ''
       lines:
-      - /ja 【星眼】 <me> <wait>
-      - /ja 【心眼】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 3
-      title: バーサク
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ＰＭロリカ+3】 4
-      - 【/equip】 【両足】 【ＡＧカリガ+3】 4
-      - //ja 【ディフェンダー】 <me> <wait 1>
-      - /ja 【バーサク】 <me> <wait 1>
-      - 【/equipset】 156 echo 【ストアTP】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 4
-      title: 八双
+      title: ''
       lines:
-      - /ja 【八双】 <me>
-      - 【/checkparam】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: 黙想
+      title: ''
       lines:
-      - /ja 【黙想】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: フルブレ
+      title: ''
       lines:
-      - 【/equipset】 151 echo 魔命
-      - //p ◇【フルブレイク】→<t>
-      - /ws 【フルブレイク】 <t> <wait>
-      - 【/equipset】 156 echo 【ストアTP】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 7
-      title: アップル
+      title: ''
       lines:
-      - 【/equipset】 143 echo 【アップヒーバル】
-      - 【/checkparam】 <me>
-      - //p ◇【アップヒーバル】(【核熱】/【収縮】)→<t>
-      - /ws 【アップヒーバル】 <t> <wait>
-      - 【/equipset】 156 echo 【ストアTP】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 8
-      title: リストレ
+      title: ''
       lines:
-      - /ja 【リストレント】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 9
-      title: ブラッド
+      title: ''
       lines:
-      - /p ◇【ブラッドレイジ】 <recast=【ブラッドレイジ】>
-      - 【/equip】 【胴】 【ＢＩロリカ+3】
-      - /ja 【ブラッドレイジ】 <me> <wait 1>
-      - 【/equipset】 156 echo 【ストアTP】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 10
-      title: Dart
+      title: ''
       lines:
-      - 【/equip】 【矢弾】 【ダート】
-      - /p ◇【釣り】→<t>
-      - 【/range】 <t> <wait 2>
-      - 【/equipset】 156 echo 【ストアTP】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 11
-      title: ストアTP
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇【コンカラー】【ストアTP】
-      - 【/equipset】 156 echo 【ストアTP】
-      - 【/equip】 【メインウェポン】 【コンカラー】
-      - 【/equip】 【サブウェポン】 【コーンスー】
-      - //p <recast=【ウォークライ】> <recast=【ブラッドレイジ】>
-      - 【/checkparam】 <me>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 12
-      title: DA100%
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇【コンカラー】DA100%
-      - 【/equipset】 141 echo DA100%
-      - 【/equip】 【メインウェポン】 【コンカラー】
-      - 【/equip】 【サブウェポン】 【コーンスー】
-      - //p <recast=【ウォークライ】> <recast=【ブラッドレイジ】>
-      - 【/checkparam】 <me>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 13
-      title: 心眼
+      title: ''
       lines:
-      - /ja 【心眼】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 14
-      title: ★移動
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇移動＆【リジェネ】
-      - 【/equipset】 154 echo 移動＆【リジェネ】
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: ★ファラ
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇被【ファランクス】
-      - 【/equipset】 142 echo 被【ファランクス】
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 16
-      title: アグレ
+      title: ''
       lines:
-      - 【/equip】 【頭】 【ＰＭマスク+3】
-      - 【/equip】 【胴】 【ＡＧロリカ+3】
-      - /ja 【アグレッサー】 <me> <wait 1>
-      - 【/equipset】 156 echo 【ストアTP】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 17
-      title: キンジャ
+      title: ''
       lines:
-      - 【/equipset】 145 echo 【サベッジブレード】
-      - 【/checkparam】 <me>
-      - //p ◇【キングズジャスティス】→<t>
-      - /ws 【キングズジャスティス】 <t> <wait>
-      - 【/equipset】 156 echo 【ストアTP】
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 18
-      title: リタリ
+      title: ''
       lines:
-      - 【/equip】 【両手】 【ＰＭマフラ+3】 4
-      - 【/equip】 【両足】 【ＢＩカリガ+3】 4
-      - /ja 【リタリエーション】 <me> <wait 1>
-      - 【/equipset】 156 echo 【ストアTP】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 19
-      title: クライ
+      title: ''
       lines:
-      - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
-      - /ja 【ウォークライ】 <me> <wait 1>
-      - 【/equipset】 156 echo 【ストアTP】
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: ★睡眠★
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇【ヴィムトルク】
-      - 【/equip】 【首】 【ヴィムトルク】
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -1461,11 +1461,11 @@
   - index: 9
     macros:
     - index: 1
-      title: 挑発(強)
+      title: ''
       lines:
-      - 【/equipset】 152 echo 敵対心＋
-      - /ja 挑発 <t> <wait>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -1479,94 +1479,94 @@
       - ''
       - ''
     - index: 3
-      title: バーサク
+      title: ''
       lines:
-      - 【/equip】 【胴】 【ＰＭロリカ+3】 4
-      - 【/equip】 【両足】 【ＡＧカリガ+3】 4
-      - //ja 【ディフェンダー】 <me> <wait 1>
-      - /ja 【バーサク】 <me> <wait 1>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 4
-      title: 八双
+      title: ''
       lines:
-      - /ja 【八双】 <me>
-      - 【/checkparam】 <me>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: 黙想
+      title: ''
       lines:
-      - /ja 【黙想】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: スチサイ
+      title: ''
       lines:
-      - 【/equipset】 145 echo 【サベッジブレード】
-      - 【/checkparam】 <me>
-      - //p ◇【スチールサイクロン】(【湾曲】/【炸裂】)→<t>
-      - /ws 【スチールサイクロン】 <t> <wait>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 7
-      title: ウッコ
+      title: ''
       lines:
-      - 【/equipset】 149 echo 【ウッコフューリー】
-      - 【/checkparam】 <me>
-      - //p ◇【ウッコフューリー】(【分解】/【光】)→<t>
-      - /ws 【ウッコフューリー】 <t> <wait>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 8
-      title: リストレ
+      title: ''
       lines:
-      - /ja 【リストレント】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 9
-      title: ブラッド
+      title: ''
       lines:
-      - /p ◇【ブラッドレイジ】 <recast=【ブラッドレイジ】>
-      - 【/equip】 【胴】 【ＢＩロリカ+3】
-      - /ja 【ブラッドレイジ】 <me> <wait 1>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 10
-      title: Dart
+      title: ''
       lines:
-      - 【/equip】 【矢弾】 【ダート】
-      - /p ◇【釣り】→<t>
-      - 【/range】 <t> <wait 2>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 11
-      title: シャンゴ
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇【シャンゴル】
-      - 【/equipset】 141 echo DA100%
-      - 【/equip】 【メインウェポン】 【シャンゴル】
-      - 【/equip】 【サブウェポン】 【ウトゥグリップ】 4
-      - //p <recast=【ウォークライ】> <recast=【ブラッドレイジ】>
-      - 【/checkparam】 <me>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
     - index: 12
-      title: サベッジ
+      title: ''
       lines:
-      - 【/equipset】 145 echo 【サベッジブレード】
-      - 【/checkparam】 <me>
-      - //p ◇【サベッジブレード】(【分解】/【切断】)→<t>
-      - /ws 【サベッジブレード】 <t> <wait>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 13
       title: ''
@@ -1578,40 +1578,40 @@
       - ''
       - ''
     - index: 14
-      title: ★移動
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇移動＆【リジェネ】
-      - 【/equipset】 154 echo 移動＆【リジェネ】
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: ★ファラ
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇被【ファランクス】
-      - 【/equipset】 142 echo 被【ファランクス】
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 16
-      title: アップル
+      title: ''
       lines:
-      - 【/equipset】 143 echo 【アップヒーバル】
-      - 【/checkparam】 <me>
-      - //p ◇【アップヒーバル】(【核熱】/【収縮】)→<t>
-      - /ws 【アップヒーバル】 <t> <wait>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 17
-      title: アップル
+      title: ''
       lines:
-      - 【/equipset】 143 echo 【アップヒーバル】
-      - 【/checkparam】 <me>
-      - //p ◇【アップヒーバル】(【核熱】/【収縮】)→<t>
-      - /ws 【アップヒーバル】 <t> <wait>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 18
       title: ''
@@ -1623,16 +1623,16 @@
       - ''
       - ''
     - index: 19
-      title: クライ
+      title: ''
       lines:
-      - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
-      - /ja 【ウォークライ】 <me> <wait 1>
-      - 【/equipset】 141 echo DA100%
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 20
-      title: ★マスポ
+      title: ''
       lines:
       - ''
       - ''
@@ -6020,10 +6020,10 @@
   - index: 4
     macros:
     - index: 1
-      title: ''
+      title: スタン
       lines:
-      - ''
-      - ''
+      - 【/equipset】 28 echo 敵歌共通
+      - /ma 【スタン】 <t>
       - ''
       - ''
       - ''
@@ -6286,7 +6286,7 @@
       title: 達ラ１ブ
       lines:
       - 【/equip】 【レンジウェポン】 【ブラーハープ+1】
-      - 【/equipset】 30 echo 【ララバイ】
+      - 【/equipset】 33 echo 敵集め【ララバイ】
       - /ma 魔物達の【ララバイ】 <t>
       - ''
       - ''
@@ -6510,21 +6510,21 @@
       - ''
       - ''
     - index: 15
-      title: ''
+      title: トゥワ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/echo】 ◇◇【トゥワシュトラ】
+      - 【/equipset】 34 echo 【オートアタック】
+      - 【/equip】 【メインウェポン】 【トゥワシュトラ】
+      - 【/equip】 【サブウェポン】 【セントヴェンテ】
+      - 【/checkparam】 <me>
       - ''
     - index: 16
-      title: ''
+      title: ルドラ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 35 echo 【ルドラストーム】
+      - 【/checkparam】 <me>
+      - /ws 【ルドラストーム】 <t> <wait>
+      - 【/equipset】 34 echo 【オートアタック】
       - ''
       - ''
     - index: 17
@@ -8953,11 +8953,11 @@
       - ''
       - ''
     - index: 3
-      title: Kサイレ
+      title: ''
       lines:
-      - /ma 【サイレス】 <stnpc>
-      - 【/equipset】 131 echo LT3弱体 <wait 3>
-      - 【/equipset】 126 echo エン二刀流
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -9043,20 +9043,20 @@
       - ''
       - ''
     - index: 13
-      title: ''
+      title: Kサイレ
       lines:
-      - ''
-      - ''
-      - ''
+      - /ma 【サイレス】 <stnpc>
+      - 【/equipset】 131 echo LT3弱体 <wait 3>
+      - 【/equipset】 126 echo エン二刀流
       - ''
       - ''
       - ''
     - index: 14
-      title: ''
+      title: デジ
       lines:
-      - ''
-      - ''
-      - ''
+      - /echo ◇◇◇デジョンリング
+      - 【/equip】 【右手の指】 【シュネデックリング】
+      - 【/equip】 【左手の指】 【デジョンリング】
       - ''
       - ''
       - ''
@@ -9070,11 +9070,11 @@
       - ''
       - ''
     - index: 16
-      title: デジ
+      title: ''
       lines:
-      - /echo ◇◇◇デジョンリング
-      - 【/equip】 【右手の指】 【シュネデックリング】
-      - 【/equip】 【左手の指】 【デジョンリング】
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -9156,9 +9156,9 @@
       - ''
       - ''
     - index: 5
-      title: ''
+      title: ソドプレ
       lines:
-      - ''
+      - /ja 【ソードプレイ】 <me>
       - ''
       - ''
       - ''
@@ -9179,13 +9179,13 @@
       - 【/equipset】 5 echo トレハン魔攻
       - 【/checkparam】 <me>
       - /ws 【イオリアンエッジ】 <t> <wait>
-      - 【/equipset】 1 echo AA
+      - 【/equipset】 4 echo 【回避】【トレジャーハンター】
       - 【/echo】 <recast=【フルーグ】> <recast=【ヴァレション】>
       - ''
     - index: 8
-      title: ''
+      title: かすめと
       lines:
-      - ''
+      - /ja 【かすめとる】 <t>
       - ''
       - ''
       - ''
@@ -9201,21 +9201,21 @@
       - ''
       - ''
     - index: 10
-      title: 敵集め
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇敵集め：TP<tp>
-      - 【/equip】 【メインウェポン】 【ガンドリング】
-      - 【/equip】 【サブウェポン】 【マレヴォレンス】
-      - 【/equipset】 1 echo AA
-      - 【/checkparam】 <me>
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 11
       title: 敵集め
       lines:
       - 【/echo】 ◇◇◇敵集め：TP<tp>
-      - 【/equip】 【メインウェポン】 【ガンドリング】
-      - 【/equip】 【サブウェポン】 【マレヴォレンス】
-      - 【/equipset】 1 echo AA
+      - 【/equipset】 4 echo 【回避】【トレジャーハンター】
+      - 【/equip】 【メインウェポン】 【ガンドリング】 <wait>
+      - 【/equip】 【サブウェポン】 【トーレット】 <wait>
       - 【/checkparam】 <me>
       - ''
     - index: 12
@@ -9255,10 +9255,10 @@
       - ''
       - ''
     - index: 16
-      title: 回避TH
+      title: AA
       lines:
-      - 【/echo】 ◇◇◇【回避】【トレジャーハンター】
-      - 【/equipset】 4 echo 【回避】【トレジャーハンター】
+      - 【/echo】 ◇◇◇【オートアタック】
+      - 【/equipset】 1 echo AA
       - 【/checkparam】 <me>
       - ''
       - ''
@@ -9396,25 +9396,25 @@
       lines:
       - 【/echo】 ◇【トーレット】＆【トゥワシュトラ】
       - 【/equipset】 1 echo AA
-      - 【/equip】 【メインウェポン】 【トーレット】 <wait>
-      - 【/equip】 【サブウェポン】 【トゥワシュトラ】 <wait>
+      - 【/equip】 【サブウェポン】 【トゥワシュトラ】
+      - 【/equip】 【メインウェポン】 【トーレット】
       - '【/checkparam】 <me> '
       - ''
     - index: 12
-      title: ''
-      lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
-    - index: 13
       title: 回避TH
       lines:
       - 【/echo】 ◇◇◇【回避】【トレジャーハンター】
       - 【/equipset】 4 echo 【回避】【トレジャーハンター】
       - 【/checkparam】 <me>
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -9484,20 +9484,20 @@
   - index: 3
     macros:
     - index: 1
-      title: ダートTH
+      title: ''
       lines:
-      - 【/equipset】 4 echo 【回避】【トレジャーハンター】
-      - 【/equip】 【矢弾】 【ダート】 0
-      - 【/range】 <t> <wait 2>
-      - 【/equip】 【矢弾】 【ヤメラング】 6
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 2
-      title: 挑発TH
+      title: ''
       lines:
-      - 【/equipset】 4 echo 【回避】【トレジャーハンター】
-      - /ja 【挑発】 <t> <wait>
-      - 【/equipset】 1 echo AA
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -9511,83 +9511,83 @@
       - ''
       - ''
     - index: 4
-      title: ★宣告★
+      title: ''
       lines:
-      - 【/equip】 【首】 【ニカンダネックレス】
-      - 【/equip】 【左手の指】 【ブレンモドリング+1】 3
-      - 【/equip】 【右手の指】 【ブレンモドリング+1】 4
-      - 【/item】 【聖水】 <me>
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 5
-      title: 不意
+      title: ''
       lines:
-      - /ja 【不意打ち】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 6
-      title: だま
+      title: ''
       lines:
-      - /ja 【だまし討ち】 <me>
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 7
-      title: マーシー
+      title: ''
       lines:
-      - 【/equipset】 6 echo 【マーシーストローク】
-      - 【/checkparam】 <me>
-      - /ws 【マーシーストローク】 <t> <wait>
-      - 【/equipset】 1 echo AA
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 8
-      title: フェイ
+      title: ''
       lines:
-      - /ja 【フェイント】 <me> <wait 1>
-      - /【/equip】 【両脚】 【ＰＤキュロット+3】
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 9
-      title: 絶対回避
+      title: ''
       lines:
-      - /【/equip】 【両手】 【ＰＤアムレット+3】
-      - /ja 【絶対回避】 <me> <stpt>
+      - ''
+      - ''
       - ''
       - ''
       - ''
       - ''
     - index: 10
-      title: ぶんどる
+      title: ''
       lines:
-      - /ja 【ぶんどる】 <t>
-      - /【/equip】 【両脚】 【ＳＫキュロット+1】
-      - 【/equip】 【両足】 【ＳＫプーレーヌ+3】
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 11
-      title: マンダウ
+      title: ''
       lines:
-      - 【/echo】 ◇【マンダウ】＆【グレティナイフ】
-      - 【/equipset】 1 echo AA
-      - 【/equip】 【メインウェポン】 【マンダウ】 <wait>
-      - 【/equip】 【サブウェポン】 【グレティナイフ】 <wait>
-      - '【/checkparam】 <me> '
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
     - index: 12
-      title: 回避TH
+      title: ''
       lines:
-      - 【/echo】 ◇◇◇【回避】【トレジャーハンター】
-      - 【/equipset】 4 echo 【回避】【トレジャーハンター】
-      - 【/checkparam】 <me>
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
@@ -9610,36 +9610,36 @@
       - ''
       - ''
     - index: 15
-      title: Lock194
+      title: ''
       lines:
-      - 【/lockstyleset】 194
+      - ''
       - ''
       - ''
       - ''
       - ''
       - ''
     - index: 16
-      title: 移動＆D
+      title: ''
       lines:
-      - 【/echo】 ◇【シュネデックリング】＆【デジョンリング】
-      - 【/equip】 【右手の指】 【シュネデックリング】
-      - 【/equip】 【左手の指】 【デジョンリング】
+      - ''
+      - ''
+      - ''
       - ''
       - ''
       - ''
     - index: 17
-      title: マーシー
+      title: ''
       lines:
-      - 【/equipset】 6 echo 【マーシーストローク】
-      - 【/checkparam】 <me>
-      - /ws 【マーシーストローク】 <t> <wait>
-      - 【/equipset】 1 echo AA
+      - ''
+      - ''
+      - ''
+      - ''
       - ''
       - ''
     - index: 18
-      title: まどわす
+      title: ''
       lines:
-      - /ja 【まどわす】 <t>
+      - ''
       - ''
       - ''
       - ''
@@ -10920,12 +10920,12 @@
       - ''
       - ''
     - index: 19
-      title: ''
+      title: ★宣告★
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【首】 【ニカンダネックレス】
+      - 【/equip】 【左手の指】 【ブレンモドリング+1】 3
+      - 【/equip】 【右手の指】 【ブレンモドリング+1】 4
+      - 【/item】 【聖水】 <me>
       - ''
       - ''
     - index: 20
@@ -13723,7 +13723,7 @@
     - index: 6
       title: jaホリサ
       lines:
-      - 【/equip】 【両足】 【ＲＶレギンス+2】
+      - 【/equip】 【両足】 【ＲＶレギンス+3】
       - /ja 【ホーリーサークル】 <me> <wait>
       - 【/equipset】 95 echo 防御装備
       - ''
@@ -13905,7 +13905,7 @@
     - index: 6
       title: jaホリサ
       lines:
-      - 【/equip】 【両足】 【ＲＶレギンス+2】
+      - 【/equip】 【両足】 【ＲＶレギンス+3】
       - /ja 【ホーリーサークル】 <me> <wait>
       - 【/equipset】 95 echo 防御装備
       - ''
@@ -14827,26 +14827,26 @@
     - index: 7
       title: シャンデ
       lines:
-      - 【/equipset】 87 echo STRWS
+      - 【/equipset】 89 echo クリティカル
       - /ws 【シャンデュシニュ】 <t> <wait>
       - 【/equipset】 81 echo AA装備
       - ''
       - ''
       - ''
     - index: 8
-      title: ''
+      title: スペジグ
       lines:
-      - ''
-      - ''
+      - /ja 【スペクトラルジグ】 <me>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
       - ''
       - ''
       - ''
     - index: 9
-      title: ''
+      title: 不倶戴天
       lines:
-      - ''
-      - ''
+      - 【/equip】 【レンジウェポン】 不倶戴天
+      - 【/range】 <t>
       - ''
       - ''
       - ''
@@ -14879,29 +14879,29 @@
       - ''
       - ''
     - index: 13
-      title: ''
+      title: マジハン
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【マジックハンマー】 <stnpc>
+      - 【/equip】 【メインウェポン】 【ネイグリング】
+      - 【/equip】 【首】 【シビルスカーフ】
+      - 【/equipset】 88 echo 魔攻INT <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 14
-      title: ''
+      title: エラチク
       lines:
-      - ''
-      - ''
+      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - /ma エラチックフラッター <me>
       - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: 夢想花TH
       lines:
-      - ''
-      - ''
-      - ''
+      - /ma 夢想花 <stnpc>
+      - 【/equipset】 83 echo 魔命【トレジャーハンター】 <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
       - ''
       - ''
@@ -15499,63 +15499,63 @@
   - index: 6
     macros:
     - index: 1
-      title: ''
+      title: エント土
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma エントゥーム <stnpc>
+      - 【/equip】 【メインウェポン】 【サクパタソード】
+      - 【/equip】 【首】 【クアンプネックレス】
+      - 【/equipset】 88 echo 魔攻INT <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 2
-      title: ''
+      title: サブダク
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma サブダックション <stnpc>
+      - 【/equip】 【メインウェポン】 【ネイグリング】
+      - 【/equip】 【首】 【ミラージストール+2】
+      - 【/equipset】 88 echo 魔攻INT <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 3
-      title: ''
+      title: リービン
       lines:
-      - ''
-      - ''
-      - ''
+      - /ma リービンウィンド <stnpc>
+      - 【/equipset】 84 echo 魔命 <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
       - ''
       - ''
     - index: 4
-      title: ''
+      title: B・B
       lines:
-      - ''
-      - ''
+      - 【/equip】 【メインウェポン】 【ゾモロネガー】
+      - /ja 【ブルーバースト】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: ''
+      title: サイスト
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma サイレントストーム <stnpc>
+      - 【/equip】 【メインウェポン】 【ネイグリング】
+      - 【/equip】 【首】 【ミラージストール+2】
+      - 【/equipset】 88 echo 魔攻INT <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 6
-      title: ''
+      title: アン雷L
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma アンビルライトニング <stnpc>
+      - 【/equip】 【メインウェポン】 【アルマス】
+      - 【/equip】 【首】 【ミラージストール+2】
+      - 【/equipset】 88 echo 魔攻INT <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 7
-      title: ''
+      title: ディフェ
       lines:
-      - ''
+      - /ja 【ディフェンダー】 <me>
       - ''
       - ''
       - ''
@@ -15571,65 +15571,65 @@
       - ''
       - ''
     - index: 9
-      title: ''
+      title: フロ氷M
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma スペクトラルフロー <stnpc>
+      - 【/equip】 【メインウェポン】 【ネイグリング】
+      - 【/equip】 【首】 【シビルスカーフ】
+      - 【/equipset】 88 echo 魔攻INT <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 10
-      title: ''
+      title: ★宣告★
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equip】 【首】 【ニカンダネックレス】
+      - 【/equip】 【左手の指】 【ブレンモドリング+1】 3
+      - 【/equip】 【右手の指】 【ブレンモドリング+1】 4
+      - 【/item】 【聖水】 <me>
       - ''
       - ''
     - index: 11
-      title: ''
+      title: FC待機
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/echo】 ◇◇【ファストキャスト】待機
+      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - 【/equip】 【メインウェポン】 【サクパタソード】
+      - 【/equip】 【サブウェポン】 【ブンジロッド】
       - ''
       - ''
     - index: 12
-      title: ''
+      title: ガイスト
       lines:
-      - ''
-      - ''
-      - ''
+      - /ma ガイストウォール <stnpc>
+      - 【/equipset】 84 echo 魔命 <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
       - ''
       - ''
     - index: 13
-      title: ''
+      title: マジハン
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - /ma 【マジックハンマー】 <stnpc>
+      - 【/equip】 【メインウェポン】 【ネイグリング】
+      - 【/equip】 【首】 【シビルスカーフ】
+      - 【/equipset】 88 echo 魔攻INT <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 14
-      title: ''
+      title: エラチク
       lines:
-      - ''
-      - ''
+      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - /ma エラチックフラッター <me>
       - ''
       - ''
       - ''
       - ''
     - index: 15
-      title: ''
+      title: オカル
       lines:
-      - ''
-      - ''
-      - ''
+      - /ma オカルテーション <me> <stpt>
+      - 【/equipset】 85 echo 青魔法スキル <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
       - ''
       - ''
@@ -15643,10 +15643,10 @@
       - ''
       - ''
     - index: 17
-      title: ''
+      title: コクーン
       lines:
-      - ''
-      - ''
+      - 【/equipset】 82 echo 【ファストキャスト】待機
+      - /ma 【コクーン】 <me>
       - ''
       - ''
       - ''
@@ -15661,18 +15661,18 @@
       - ''
       - ''
     - index: 19
-      title: ''
+      title: カルカリ
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/equipset】 85 echo 青魔法スキル
+      - /ja ノートリアスナレッジ <me> <wait 1>
+      - /ja 【ディフュージョン】 <me> <wait 1>
+      - /ma カルカリアンヴァーヴ <me> <wait 2>
+      - 【/equipset】 82 echo 【ファストキャスト】待機
       - ''
     - index: 20
-      title: ''
+      title: H解放
       lines:
-      - ''
+      - 【/lockstyleset】 200
       - ''
       - ''
       - ''
@@ -17886,9 +17886,9 @@
       - ''
       - ''
     - index: 3
-      title: マレヴォ
+      title: タニオン
       lines:
-      - 【/equip】 【メインウェポン】 【マレヴォレンス】
+      - 【/equip】 【メインウェポン】 【ターニオンダガー+1】
       - 【/equipset】 141 echo DA100% <wait>
       - 【/equip】 【サブウェポン】 【ブラーシールド+1】
       - 【/equip】 【頭】 【バロラスマスク】 7
@@ -18255,7 +18255,7 @@
     - index: 3
       title: フォイ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma フォイル <me>
@@ -18264,7 +18264,7 @@
     - index: 4
       title: ガイス×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【ガイストウォール】 <t>
@@ -18345,7 +18345,7 @@
     - index: 13
       title: コクン×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【コクーン】 <me>
@@ -18354,7 +18354,7 @@
     - index: 14
       title: ファラ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【ファランクス】 <me>
@@ -18363,7 +18363,7 @@
     - index: 15
       title: ストス×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【ストンスキン】 <me>
@@ -18372,7 +18372,7 @@
     - index: 16
       title: アイス×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【アイススパイク】 <me>
@@ -18381,7 +18381,7 @@
     - index: 17
       title: ブリン×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【ブリンク】 <me>
@@ -18390,7 +18390,7 @@
     - index: 18
       title: アクア×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【アクアベール】 <me>
@@ -18399,7 +18399,7 @@
     - index: 19
       title: いやし×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【いやしの風】 <me>
@@ -18554,7 +18554,7 @@
     - index: 16
       title: 自ファラ
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【胴】 【アダマンアーマー】
       - /ma 【ファランクス】 <me>
@@ -18581,7 +18581,7 @@
     - index: 19
       title: クルセ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma クルセード <me>
@@ -18628,7 +18628,7 @@
     - index: 4
       title: 自ファラ
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【胴】 【アダマンアーマー】
       - /ma 【ファランクス】 <me>
@@ -18637,7 +18637,7 @@
     - index: 5
       title: ストス×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【ストンスキン】 <me>
@@ -18646,7 +18646,7 @@
     - index: 6
       title: ブリン×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【ブリンク】 <me>
@@ -18655,7 +18655,7 @@
     - index: 7
       title: アクア×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【アクアベール】 <me>
@@ -18718,7 +18718,7 @@
     - index: 14
       title: バアムネ
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma バアムネジア <me>
@@ -18727,7 +18727,7 @@
     - index: 15
       title: バファイ
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【バファイ】 <me>
@@ -18754,7 +18754,7 @@
     - index: 18
       title: クルセ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma クルセード <me>
@@ -18801,7 +18801,7 @@
     - index: 3
       title: フォイ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma フォイル <me>
@@ -18900,7 +18900,7 @@
     - index: 14
       title: ファラ×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【ファランクス】 <me>
@@ -18909,7 +18909,7 @@
     - index: 15
       title: ストス×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【ストンスキン】 <me>
@@ -18918,7 +18918,7 @@
     - index: 16
       title: ブリン×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【ブリンク】 <me>
@@ -18927,7 +18927,7 @@
     - index: 17
       title: アクア×
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【背】 【オーグマケープ】 3
       - /ma 【アクアベール】 <me>
@@ -20010,7 +20010,7 @@
     - index: 16
       title: 自ファラ
       lines:
-      - 【/equip】 【頭】 【ＲＮバンド+3】
+      - 【/equip】 【頭】 【ＲＮバンド+4】
       - 【/equip】 【両足】 【カマイングリーヴ+1】
       - 【/equip】 【胴】 【アダマンアーマー】
       - /ma 【ファランクス】 <me>
@@ -20303,12 +20303,12 @@
       - ''
       - ''
     - index: 8
-      title: ''
+      title: トレハン
       lines:
-      - ''
-      - ''
-      - ''
-      - ''
+      - 【/echo】 ◇【トレジャーハンター】◇
+      - 【/equip】 【頭】 【ヘルクリアヘルム】 2
+      - 【/equip】 【両脚】 【ヴォルトホーズ】
+      - 【/equip】 【両足】 【ヴォルトブーツ】
       - ''
       - ''
     - index: 9
@@ -20977,10 +20977,10 @@
       - ''
       - ''
     - index: 2
-      title: ''
+      title: 攻撃力48
       lines:
-      - ''
-      - ''
+      - 【/equipset】 57 echo 【ファントムロール】
+      - /ja 【カオスロール】 <me>
       - ''
       - ''
       - ''
@@ -21177,23 +21177,23 @@
       - ''
       - ''
     - index: 4
-      title: 命中48
+      title: 攻撃力48
       lines:
       - 【/equipset】 57 echo 【ファントムロール】
-      - /ja 【ハンターズロール】 <me>
+      - /ja 【カオスロール】 <me>
       - ''
       - ''
       - ''
       - ''
     - index: 5
-      title: 遠隔st
+      title: トレハン
       lines:
-      - 【/equip】 【頭】 【テーオンシャポー】
-      - 【/equip】 【両手】 【ＬＡガントリー+3】
-      - 【/equip】 【両脚】 【ＬＫトルーズ+3】
-      - 【/equip】 【両足】 【メガナダジャンボ+2】
-      - 【/range】 <stnpc>
-      - 【/equipset】 60 echo 近接遠隔着弾
+      - 【/echo】 ◇【トレジャーハンター】◇
+      - 【/equip】 【頭】 【ヘルクリアヘルム】 2
+      - 【/equip】 【両脚】 【ヴォルトホーズ】
+      - 【/equip】 【両足】 【ヴォルトブーツ】
+      - ''
+      - ''
     - index: 6
       title: ランダム
       lines:
@@ -22045,7 +22045,7 @@
     - index: 19
       title: レイディ
       lines:
-      - 【/equip】 【両足】 【ＢＡサンダル+3】
+      - 【/equip】 【両足】 【ＢＡサンダル+4】
       - /ja 【レイディアルアルカナ】 <me> <stpt>
       - ''
       - ''
@@ -22409,7 +22409,7 @@
     - index: 19
       title: レイディ
       lines:
-      - 【/equip】 【両足】 【ＢＡサンダル+3】
+      - 【/equip】 【両足】 【ＢＡサンダル+4】
       - /ja 【レイディアルアルカナ】 <me> <stpt>
       - ''
       - ''
@@ -22773,7 +22773,7 @@
     - index: 19
       title: レイディ
       lines:
-      - 【/equip】 【両足】 【ＢＡサンダル+3】
+      - 【/equip】 【両足】 【ＢＡサンダル+4】
       - /ja 【レイディアルアルカナ】 <me> <stpt>
       - ''
       - ''
@@ -23713,9 +23713,9 @@
       - ''
       - ''
     - index: 2
-      title: ''
+      title: ポボス
       lines:
-      - ''
+      - /item ポボスオーブ <t>
       - ''
       - ''
       - ''
@@ -34692,7 +34692,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ストーン】V <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 7
@@ -34701,7 +34701,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ストーン】IV <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 8
@@ -34710,7 +34710,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ストーン】III <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 9
@@ -34874,7 +34874,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ブリザド】V <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 7
@@ -34883,7 +34883,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ブリザド】IV <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 8
@@ -34892,7 +34892,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ブリザド】III <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 9
@@ -35056,7 +35056,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ファイア】V <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 7
@@ -35065,7 +35065,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ファイア】IV <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 8
@@ -35074,7 +35074,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ファイア】III <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 9
@@ -35238,7 +35238,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ウォータ】V <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 7
@@ -35247,7 +35247,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ウォータ】IV <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 8
@@ -35256,7 +35256,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【ウォータ】III <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 9
@@ -35420,7 +35420,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【サンダー】V <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 7
@@ -35429,7 +35429,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【サンダー】IV <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 8
@@ -35438,7 +35438,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【サンダー】III <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 9
@@ -35602,7 +35602,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【エアロ】V <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 7
@@ -35611,7 +35611,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【エアロ】IV <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 8
@@ -35620,7 +35620,7 @@
       - 【/equip】 【頭】 【マーリンフード】
       - 【/equip】 【胴】 【ピンガチュニック+1】
       - 【/equip】 【両脚】 【ピンガズボン+1】
-      - 【/equip】 【両足】 【ＡＣローファー+3】
+      - 【/equip】 【両足】 【ＡＣローファー+4】
       - /ma 【エアロ】III <stnpc>
       - 【/equipset】 12 echo 【バースト】
     - index: 9
@@ -36630,7 +36630,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 159 echo 命中高め
       - ''
@@ -36812,7 +36812,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -36994,7 +36994,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -37814,7 +37814,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -37904,7 +37904,7 @@
       title: クライ
       lines:
       - /p ◇【ウォークライ】 <recast=【ウォークライ】>
-      - 【/equip】 【頭】 【ＡＧマスク+3】 4
+      - 【/equip】 【頭】 【ＡＧマスク+4】
       - /ja 【ウォークライ】 <me> <wait 1>
       - 【/equipset】 141 echo DA100%
       - ''
@@ -38303,7 +38303,7 @@
       - 【/checkparam】 <me>
       - //p ◇→<t>
       - /ws 【クラウドスプリッタ】 <t> <wait>
-      - 【/equipset】 155 echo 【二刀流】【ストアTP】
+      - 【/equipset】 141 echo DA100%
       - ''
     - index: 3
       title: バーサク
@@ -38348,7 +38348,7 @@
       - 【/checkparam】 <me>
       - //p ◇→<t>
       - /ws 【クラウドスプリッタ】 <t> <wait>
-      - 【/equipset】 155 echo 【二刀流】【ストアTP】
+      - 【/equipset】 141 echo DA100%
       - ''
     - index: 8
       title: ''
@@ -38381,7 +38381,7 @@
       title: ファルシ
       lines:
       - 【/echo】 ◇◇◇【ファルシャ】
-      - 【/equipset】 155 echo 【二刀流】【ストアTP】
+      - 【/equipset】 141 echo DA100%
       - 【/equip】 【メインウェポン】 【ファルシャ】
       - 【/equip】 【サブウェポン】 【リシャルデアクス+3】
       - //p <recast=【ウォークライ】> <recast=【ブラッドレイジ】>
@@ -38390,7 +38390,7 @@
       title: イケンガ
       lines:
       - 【/echo】 ◇◇◇【イケンガアクス】
-      - 【/equipset】 155 echo 【二刀流】【ストアTP】
+      - 【/equipset】 141 echo DA100%
       - 【/equip】 【メインウェポン】 【イケンガアクス】
       - 【/equip】 【サブウェポン】 【リシャルデアクス+3】
       - //p <recast=【ウォークライ】> <recast=【ブラッドレイジ】>
@@ -38438,7 +38438,7 @@
       - 【/checkparam】 <me>
       - //p ◇【カラミティ】(【切断】/【衝撃】)→<t>
       - /ws 【カラミティ】 <t> <wait>
-      - 【/equipset】 155 echo 【二刀流】【ストアTP】
+      - 【/equipset】 141 echo DA100%
       - ''
     - index: 18
       title: ''
@@ -53055,6 +53055,188 @@
   name: Book31
   palettes:
   - index: 1
+    macros:
+    - index: 1
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 2
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 3
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 4
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 5
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 6
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 7
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 8
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 9
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 10
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 11
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 12
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 13
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 14
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 15
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 16
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 17
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 18
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 19
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    - index: 20
+      title: ''
+      lines:
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+  - index: 2
     macros:
     - index: 1
       title: ''

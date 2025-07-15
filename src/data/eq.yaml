@@ -1,4 +1,4 @@
-# 2025-05-04 18:10:13
+# 2025-07-11 00:45:44
 - index: 1
   title: 001ThfAA
   items:
@@ -16,24 +16,24 @@
     item: 0
   - index: 4
     storage: 49
-    slot: 19
-    item: コイストボダー
+    slot: 73
+    item: オゲルミルオーブ+1
   - index: 5
     storage: 57
     slot: 58
     item: マリグナスシャポー
   - index: 6
-    storage: 57
-    slot: 59
-    item: マリグナスタバード
+    storage: 53
+    slot: 11
+    item: グレティキュイラス
   - index: 7
     storage: 57
     slot: 60
     item: マリグナスグローブ
   - index: 8
-    storage: 57
-    slot: 61
-    item: マリグナスタイツ
+    storage: 53
+    slot: 16
+    item: グレティブリーチズ
   - index: 9
     storage: 57
     slot: 62
@@ -43,21 +43,21 @@
     slot: 12
     item: アサシンゴルゲ+2
   - index: 11
-    storage: 53
-    slot: 77
-    item: 霊亀腰帯
+    storage: 49
+    slot: 48
+    item: セールフィベルト+1
   - index: 12
-    storage: 57
-    slot: 40
-    item: エアバニピアス
+    storage: 53
+    slot: 72
+    item: 素破の耳
   - index: 13
     storage: 61
     slot: 29
     item: スカルカピアス+1
   - index: 14
-    storage: 57
-    slot: 32
-    item: エポナリング
+    storage: 33
+    slot: 60
+    item: シーリチリング+1
   - index: 15
     storage: 57
     slot: 21
@@ -181,12 +181,12 @@
     slot: 44
     item: フォシャベルト
   - index: 12
-    storage: 41
-    slot: 54
+    storage: 53
+    slot: 7
     item: オドルピアス
   - index: 13
-    storage: 57
-    slot: 44
+    storage: 53
+    slot: 21
     item: シェリダピアス
   - index: 14
     storage: 49
@@ -573,7 +573,7 @@
   - index: 9
     storage: 41
     slot: 38
-    item: ＡＣローファー+3
+    item: ＡＣローファー+4
   - index: 10
     storage: 41
     slot: 11
@@ -713,9 +713,9 @@
     slot: 22
     item: アギュトストール+2
   - index: 11
-    storage: 61
-    slot: 70
-    item: スクリミルコード
+    storage: 45
+    slot: 51
+    item: スクリミルコード+1
   - index: 12
     storage: 41
     slot: 20
@@ -908,7 +908,7 @@
   - index: 9
     storage: 41
     slot: 38
-    item: ＡＣローファー+3
+    item: ＡＣローファー+4
   - index: 10
     storage: 41
     slot: 65
@@ -1310,7 +1310,7 @@
   - index: 9
     storage: 41
     slot: 38
-    item: ＡＣローファー+3
+    item: ＡＣローファー+4
   - index: 10
     storage: 41
     slot: 11
@@ -1578,7 +1578,7 @@
   - index: 9
     storage: 33
     slot: 16
-    item: ＢＲスリッパー+3
+    item: ＢＲスリッパー+4
   - index: 10
     storage: 45
     slot: 42
@@ -1846,7 +1846,7 @@
   - index: 9
     storage: 33
     slot: 16
-    item: ＢＲスリッパー+3
+    item: ＢＲスリッパー+4
   - index: 10
     storage: 45
     slot: 42
@@ -1972,15 +1972,15 @@
   - index: 7
     storage: 33
     slot: 9
-    item: ＢＲカフス+3
+    item: ＢＲカフス+4
   - index: 8
     storage: 1
     slot: 25
     item: インヤガシャルワ+2
   - index: 9
-    storage: 1
-    slot: 31
-    item: ＢＲスリッパー+3
+    storage: 33
+    slot: 16
+    item: ＢＲスリッパー+4
   - index: 10
     storage: 45
     slot: 42
@@ -2242,13 +2242,13 @@
     slot: 31
     item: ブンジグローブ
   - index: 8
-    storage: 41
-    slot: 64
-    item: ヴォルトタイツ
+    storage: 33
+    slot: 55
+    item: ニャメフランチャ
   - index: 9
-    storage: 41
-    slot: 35
-    item: ヴォルトスパッツ
+    storage: 33
+    slot: 8
+    item: ニャメソルレット
   - index: 10
     storage: 57
     slot: 30
@@ -2297,9 +2297,9 @@
     slot: 0
     item: 0
   - index: 5
-    storage: 49
-    slot: 13
-    item: ブリスタサリット+1
+    storage: 33
+    slot: 27
+    item: ニャメヘルム
   - index: 6
     storage: 33
     slot: 14
@@ -3253,7 +3253,7 @@
   - index: 9
     storage: 53
     slot: 26
-    item: ＬＡブーツ+3
+    item: ＬＡブーツ+4
   - index: 10
     storage: 41
     slot: 11
@@ -3586,9 +3586,9 @@
     slot: 55
     item: ニャメフランチャ
   - index: 9
-    storage: 21
-    slot: 69
-    item: ＬＡブーツ+3
+    storage: 53
+    slot: 26
+    item: ＬＡブーツ+4
   - index: 10
     storage: 53
     slot: 54
@@ -3728,13 +3728,13 @@
     slot: 22
     item: バーシチョーカー+1
   - index: 11
-    storage: 57
-    slot: 21
-    item: 霊亀腰帯
+    storage: 49
+    slot: 48
+    item: セールフィベルト+1
   - index: 12
-    storage: 57
-    slot: 40
-    item: エアバニピアス
+    storage: 49
+    slot: 14
+    item: ブルタルピアス
   - index: 13
     storage: 49
     slot: 69
@@ -3748,9 +3748,9 @@
     slot: 45
     item: シーリチリング+1
   - index: 16
-    storage: 53
-    slot: 25
-    item: 無の外装
+    storage: 57
+    slot: 13
+    item: カムラスマント
 - index: 57
   title: 057CorRolL
   items:
@@ -3815,8 +3815,8 @@
     slot: 57
     item: ルザフリング
   - index: 16
-    storage: 45
-    slot: 61
+    storage: 57
+    slot: 13
     item: カムラスマント
 - index: 58
   title: 058CorLS
@@ -3921,9 +3921,9 @@
     slot: 55
     item: ニャメフランチャ
   - index: 9
-    storage: 21
-    slot: 69
-    item: ＬＡブーツ+3
+    storage: 53
+    slot: 26
+    item: ＬＡブーツ+4
   - index: 10
     storage: 53
     slot: 54
@@ -4111,8 +4111,8 @@
     item: エアハット+1
   - index: 6
     storage: 45
-    slot: 38
-    item: ＳＰコート+3
+    slot: 16
+    item: ＳＰコート+4
   - index: 7
     storage: 45
     slot: 32
@@ -5383,17 +5383,17 @@
     slot: 58
     item: マリグナスシャポー
   - index: 6
-    storage: 57
-    slot: 59
-    item: マリグナスタバード
+    storage: 53
+    slot: 11
+    item: グレティキュイラス
   - index: 7
     storage: 57
     slot: 60
     item: マリグナスグローブ
   - index: 8
-    storage: 57
-    slot: 61
-    item: マリグナスタイツ
+    storage: 53
+    slot: 16
+    item: グレティブリーチズ
   - index: 9
     storage: 57
     slot: 62
@@ -5403,13 +5403,13 @@
     slot: 14
     item: ミラージストール+2
   - index: 11
-    storage: 57
-    slot: 21
-    item: 霊亀腰帯
+    storage: 49
+    slot: 48
+    item: セールフィベルト+1
   - index: 12
-    storage: 57
-    slot: 40
-    item: エアバニピアス
+    storage: 53
+    slot: 67
+    item: テロスピアス
   - index: 13
     storage: 61
     slot: 23
@@ -5424,8 +5424,8 @@
     item: シーリチリング+1
   - index: 16
     storage: 53
-    slot: 25
-    item: 無の外装
+    slot: 63
+    item: ロスメルタケープ
 - index: 82
   title: 082BluDef
   items:
@@ -5896,7 +5896,7 @@
     slot: 9
     item: ロスメルタケープ
 - index: 89
-  title: Set089
+  title: 089BluChan
   items:
   - index: 1
     storage: 0
@@ -5911,57 +5911,57 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 19
+    item: コイストボダー
   - index: 5
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 13
+    item: ブリスタサリット+1
   - index: 6
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 11
+    item: グレティキュイラス
   - index: 7
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 17
+    item: グレティガントレ
   - index: 8
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 16
+    item: グレティブリーチズ
   - index: 9
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 19
+    item: グレティブーツ
   - index: 10
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 61
+    slot: 14
+    item: ミラージストール+2
   - index: 11
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 62
+    item: フォシャベルト
   - index: 12
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 7
+    item: オドルピアス
   - index: 13
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 57
+    slot: 59
+    item: ハシシンピアス+1
   - index: 14
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 3
+    item: イラブラットリング
   - index: 15
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 53
+    slot: 6
+    item: エポナリング
   - index: 16
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 57
+    slot: 26
+    item: ロスメルタケープ
 - index: 90
   title: 090PupAA
   items:
@@ -7945,9 +7945,9 @@
     slot: 73
     item: ブンジサボ
   - index: 10
-    storage: 1
-    slot: 22
-    item: シュルマヌカラー
+    storage: 9
+    slot: 46
+    item: 召喚士の首輪+2
   - index: 11
     storage: 1
     slot: 26
@@ -8012,9 +8012,9 @@
     slot: 73
     item: ブンジサボ
   - index: 10
-    storage: 1
-    slot: 25
-    item: アダドアミュレット
+    storage: 9
+    slot: 46
+    item: 召喚士の首輪+2
   - index: 11
     storage: 1
     slot: 24
@@ -9179,72 +9179,72 @@
     slot: 0
     item: 0
 - index: 138
-  title: 138RdmD1
+  title: Set138
   items:
   - index: 1
-    storage: 1
-    slot: 35
-    item: エシクーバ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 2
-    storage: 1
-    slot: 36
-    item: インフィルトレータ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 3
-    storage: 1
-    slot: 34
-    item: ウルル
+    storage: 0
+    slot: 0
+    item: 0
   - index: 4
     storage: 0
     slot: 0
     item: 0
   - index: 5
-    storage: 57
-    slot: 3
-    item: ＬＴシャペル+3
+    storage: 0
+    slot: 0
+    item: 0
   - index: 6
-    storage: 57
-    slot: 5
-    item: ＬＴサヨン+3
+    storage: 0
+    slot: 0
+    item: 0
   - index: 7
-    storage: 57
-    slot: 4
-    item: ＬＴガントロ+3
+    storage: 0
+    slot: 0
+    item: 0
   - index: 8
-    storage: 57
-    slot: 75
-    item: カマインクウィス+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 9
-    storage: 57
-    slot: 6
-    item: ＬＴウゾー+3
+    storage: 0
+    slot: 0
+    item: 0
   - index: 10
-    storage: 1
-    slot: 26
-    item: 無の喉輪
+    storage: 0
+    slot: 0
+    item: 0
   - index: 11
-    storage: 53
-    slot: 77
-    item: 霊亀腰帯
+    storage: 0
+    slot: 0
+    item: 0
   - index: 12
-    storage: 53
-    slot: 72
-    item: 素破の耳
+    storage: 0
+    slot: 0
+    item: 0
   - index: 13
-    storage: 53
-    slot: 65
-    item: エアバニピアス
+    storage: 0
+    slot: 0
+    item: 0
   - index: 14
-    storage: 45
-    slot: 63
-    item: スティキニリング+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 15
-    storage: 49
-    slot: 78
-    item: スティキニリング+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 16
-    storage: 1
-    slot: 71
-    item: 無の外装
+    storage: 0
+    slot: 0
+    item: 0
 - index: 139
   title: 139RdmSV
   items:
@@ -9535,7 +9535,7 @@
   - index: 5
     storage: 49
     slot: 39
-    item: ＡＧマスク+3
+    item: ＡＧマスク+4
   - index: 6
     storage: 33
     slot: 1
@@ -9669,7 +9669,7 @@
   - index: 5
     storage: 49
     slot: 39
-    item: ＡＧマスク+3
+    item: ＡＧマスク+4
   - index: 6
     storage: 33
     slot: 1
@@ -10270,9 +10270,9 @@
     slot: 50
     item: ストンチタスラム+1
   - index: 5
-    storage: 49
-    slot: 62
-    item: バロラスマスク
+    storage: 41
+    slot: 47
+    item: 無の面
   - index: 6
     storage: 49
     slot: 45
@@ -10282,9 +10282,9 @@
     slot: 2
     item: ヴォルトムフル
   - index: 8
-    storage: 33
-    slot: 55
-    item: ニャメフランチャ
+    storage: 49
+    slot: 35
+    item: ヴォルトブレエット
   - index: 9
     storage: 49
     slot: 57
@@ -10318,7 +10318,7 @@
     slot: 77
     item: シコルマント
 - index: 155
-  title: 155War2stp
+  title: Set155
   items:
   - index: 1
     storage: 0
@@ -10333,59 +10333,59 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 49
-    slot: 7
-    item: シーズボムレット+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 5
-    storage: 49
-    slot: 20
-    item: サクパタヘルム
+    storage: 0
+    slot: 0
+    item: 0
   - index: 6
-    storage: 49
-    slot: 34
-    item: ＢＩロリカ+3
+    storage: 0
+    slot: 0
+    item: 0
   - index: 7
-    storage: 49
-    slot: 24
-    item: サクパタガントレ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 8
-    storage: 41
-    slot: 64
-    item: ヴォルトタイツ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 9
-    storage: 41
-    slot: 35
-    item: ヴォルトスパッツ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 10
-    storage: 49
-    slot: 18
-    item: 戦士の数珠+2
+    storage: 0
+    slot: 0
+    item: 0
   - index: 11
-    storage: 53
-    slot: 77
-    item: 霊亀腰帯
+    storage: 0
+    slot: 0
+    item: 0
   - index: 12
-    storage: 57
-    slot: 40
-    item: エアバニピアス
+    storage: 0
+    slot: 0
+    item: 0
   - index: 13
-    storage: 53
-    slot: 41
-    item: デディションピアス
+    storage: 0
+    slot: 0
+    item: 0
   - index: 14
-    storage: 33
-    slot: 60
-    item: シーリチリング+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 15
-    storage: 41
-    slot: 45
-    item: シーリチリング+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 16
-    storage: 57
-    slot: 74
-    item: シコルマント
+    storage: 0
+    slot: 0
+    item: 0
 - index: 156
-  title: 156WarSTP
+  title: Set156
   items:
   - index: 1
     storage: 0
@@ -10400,57 +10400,57 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 49
-    slot: 73
-    item: オゲルミルオーブ+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 5
-    storage: 33
-    slot: 74
-    item: サクパタヘルム
+    storage: 0
+    slot: 0
+    item: 0
   - index: 6
-    storage: 49
-    slot: 34
-    item: ＢＩロリカ+3
+    storage: 0
+    slot: 0
+    item: 0
   - index: 7
-    storage: 21
-    slot: 19
-    item: サクパタガントレ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 8
-    storage: 41
-    slot: 64
-    item: ヴォルトタイツ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 9
-    storage: 41
-    slot: 35
-    item: ヴォルトスパッツ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 10
-    storage: 49
-    slot: 18
-    item: 戦士の数珠+2
+    storage: 0
+    slot: 0
+    item: 0
   - index: 11
-    storage: 49
-    slot: 47
-    item: ソードフェーテル+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 12
-    storage: 49
-    slot: 27
-    item: シェレピアス
+    storage: 0
+    slot: 0
+    item: 0
   - index: 13
-    storage: 53
-    slot: 41
-    item: デディションピアス
+    storage: 0
+    slot: 0
+    item: 0
   - index: 14
-    storage: 33
-    slot: 60
-    item: シーリチリング+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 15
-    storage: 41
-    slot: 45
-    item: シーリチリング+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 16
-    storage: 57
-    slot: 74
-    item: シコルマント
+    storage: 0
+    slot: 0
+    item: 0
 - index: 157
   title: 157WaDuUK
   items:
@@ -10881,17 +10881,17 @@
     slot: 75
     item: アダマンアーマー
   - index: 7
-    storage: 61
-    slot: 43
-    item: ＧＯミテーヌ+3
+    storage: 33
+    slot: 35
+    item: ＧＯミテーヌ+4
   - index: 8
     storage: 33
     slot: 55
     item: ニャメフランチャ
   - index: 9
-    storage: 61
-    slot: 42
-    item: ＢＡサンダル+3
+    storage: 33
+    slot: 31
+    item: ＢＡサンダル+4
   - index: 10
     storage: 61
     slot: 15
@@ -10948,9 +10948,9 @@
     slot: 53
     item: ＧＯチュニック+3
   - index: 7
-    storage: 61
-    slot: 43
-    item: ＧＯミテーヌ+3
+    storage: 33
+    slot: 35
+    item: ＧＯミテーヌ+4
   - index: 8
     storage: 61
     slot: 45
@@ -13303,7 +13303,7 @@
   - index: 9
     storage: 53
     slot: 26
-    item: ＬＡブーツ+3
+    item: ＬＡブーツ+4
   - index: 10
     storage: 0
     slot: 0
