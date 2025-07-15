@@ -1,12 +1,11 @@
-window.onscroll = function() {
-  const btn = document.getElementById("scrollTopBtn");
-  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-    btn.style.display = "block";
+$(window).on('scroll', function() {
+  if ($(this).scrollTop() > 100) {
+    $('#scrollTopBtn').fadeIn();
   } else {
-    btn.style.display = "none";
+    $('#scrollTopBtn').fadeOut();
   }
-};
+});
 
-function scrollToTop() {
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-}
+$('#scrollTopBtn').on('click', function() {
+  $('html, body').animate({ scrollTop: 0 }, 'smooth');
+});

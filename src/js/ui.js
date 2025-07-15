@@ -1,19 +1,17 @@
 function buildTableOfContents(container, mcData) {
-  const tocList = document.createElement('ul');
+  const $tocList = $('<ul>');
   mcData.forEach((section, index) => {
     const sectionTitle = section.name || `【${index + 1}】`;
-    const tocItem = document.createElement('li');
-    const tocLink = document.createElement('a');
-    tocLink.href = `#section-${(section.name || index + 1).toString().replace(/\s/g, '_')}`;
-    tocLink.textContent = sectionTitle;
-    tocItem.appendChild(tocLink);
-    tocList.appendChild(tocItem);
+    const sectionId = `section-${(section.name || index + 1).toString().replace(/\s/g, '_')}`;
+    const $tocItem = $('<li>');
+    const $tocLink = $('<a>').attr('href', `#${sectionId}`).text(sectionTitle);
+    $tocItem.append($tocLink).appendTo($tocList);
   });
-  container.appendChild(tocList);
+  $(container).append($tocList);
 }
 
 function buildMacroSections(container, mcData, eqData) {
-  const fragment = document.createDocumentFragment();
+  const $fragment = $(document.createDocumentFragment());
   let buttonCount = 0;
 
   const isMobile = window.innerWidth <= 600;
@@ -21,64 +19,50 @@ function buildMacroSections(container, mcData, eqData) {
 
   mcData.forEach((section, index) => {
     const sectionTitle = section.name || `【${index + 1}】`;
-    const heading = document.createElement('h2');
-    heading.textContent = sectionTitle;
-    heading.id = `section-${(section.name || index + 1).toString().replace(/\s/g, '_')}`;
-    fragment.appendChild(heading);
+    const sectionId = `section-${(section.name || index + 1).toString().replace(/\s/g, '_')}`;
+    const $heading = $('<h2>').text(sectionTitle).attr('id', sectionId);
+    $fragment.append($heading);
 
-    let buttonsContainer = createButtonContainer();
+    let $buttonsContainer = createButtonContainer();
     section.palettes.forEach((palette) => {
       palette.macros.forEach((macro) => {
-        const button = createMacroButton(macro, buttonCount, eqData);
-        buttonsContainer.appendChild(button);
+        const $button = createMacroButton(macro, buttonCount, eqData);
+        $buttonsContainer.append($button);
         buttonCount++;
 
         if (buttonCount % 20 === 0) {
-          fragment.appendChild(buttonsContainer);
-          fragment.appendChild(document.createElement('hr'));
-          buttonsContainer = createButtonContainer();
+          $fragment.append($buttonsContainer).append('<hr>');
+          $buttonsContainer = createButtonContainer();
         } else if (buttonCount % breakAfter === 0) {
-          fragment.appendChild(buttonsContainer);
-          buttonsContainer = createButtonContainer();
+          $fragment.append($buttonsContainer);
+          $buttonsContainer = createButtonContainer();
         }
       });
     });
 
-    if (buttonsContainer.children.length > 0) {
-      fragment.appendChild(buttonsContainer);
+    if ($buttonsContainer.children().length > 0) {
+      $fragment.append($buttonsContainer);
     }
   });
-  container.appendChild(fragment);
+  $(container).append($fragment);
 }
 
 function createButtonContainer() {
-  const container = document.createElement('div');
-  container.className = 'button-container';
-  return container;
+  return $('<div>').addClass('button-container');
 }
 
 function createMacroButton(macro, buttonCount, eqData) {
-  const button = document.createElement('button');
-  button.classList.add('macro-button');
-  const titleText = macro.title;
-  button.textContent = titleText;
+  const $button = $('<button>').addClass('macro-button').text(macro.title);
 
-  if (Math.floor(buttonCount / 10) % 2 === 0) {
-    button.classList.add('color-set-1');
-  } else {
-    button.classList.add('color-set-2');
-  }
+  $button.addClass((Math.floor(buttonCount / 10) % 2 === 0) ? 'color-set-1' : 'color-set-2');
 
   const isDataEmpty = !macro.lines || macro.lines.length === 0;
-  const isTitleEmpty = !titleText.trim();
+  const isTitleEmpty = !macro.title.trim();
 
   if (isDataEmpty || isTitleEmpty) {
-    button.classList.add('disabled');
-    button.disabled = true;
+    $button.addClass('disabled').prop('disabled', true);
   } else {
-    button.addEventListener('click', () => {
-      openModal(macro.lines, titleText, eqData);
-    });
+    $button.on('click', () => openModal(macro.lines, macro.title, eqData));
   }
-  return button;
+  return $button;
 }
