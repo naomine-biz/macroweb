@@ -16,4 +16,4 @@
 
 ## 補記
 
-ほとんど[ChatGPT](https://chatgpt.com/)で作成しました。
+ほとんど[ChatGPT](https://chatgpt.com/)と[Gemini CLI](https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-gemini-cli/)で作成しました。
