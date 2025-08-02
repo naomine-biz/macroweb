@@ -1,4 +1,4 @@
-# 2025-07-11 00:45:44
+# 2025-08-02 14:54:40
 - index: 1
   title: 001ThfAA
   items:
@@ -283,9 +283,9 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 49
-    slot: 7
-    item: シーズボムレット+1
+    storage: 45
+    slot: 80
+    item: ペムフレドタスラム
   - index: 5
     storage: 33
     slot: 74
@@ -335,7 +335,7 @@
     slot: 20
     item: トゥタティスケープ
 - index: 6
-  title: 006ThfSTR
+  title: Set006
   items:
   - index: 1
     storage: 0
@@ -350,57 +350,57 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 49
-    slot: 19
-    item: コイストボダー
+    storage: 0
+    slot: 0
+    item: 0
   - index: 5
-    storage: 33
-    slot: 74
-    item: ニャメヘルム
+    storage: 0
+    slot: 0
+    item: 0
   - index: 6
-    storage: 33
-    slot: 1
-    item: ニャメメイル
+    storage: 0
+    slot: 0
+    item: 0
   - index: 7
-    storage: 33
-    slot: 71
-    item: ニャメガントレ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 8
-    storage: 33
-    slot: 55
-    item: ニャメフランチャ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 9
-    storage: 33
-    slot: 8
-    item: ニャメソルレット
+    storage: 0
+    slot: 0
+    item: 0
   - index: 10
-    storage: 61
-    slot: 12
-    item: アサシンゴルゲ+2
+    storage: 0
+    slot: 0
+    item: 0
   - index: 11
-    storage: 49
-    slot: 48
-    item: セールフィベルト+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 12
-    storage: 57
-    slot: 44
-    item: シェリダピアス
+    storage: 0
+    slot: 0
+    item: 0
   - index: 13
-    storage: 57
-    slot: 23
-    item: スカルカピアス+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 14
-    storage: 49
-    slot: 49
-    item: 王将の指輪
+    storage: 0
+    slot: 0
+    item: 0
   - index: 15
-    storage: 57
-    slot: 21
-    item: ゲリリング
+    storage: 0
+    slot: 0
+    item: 0
   - index: 16
-    storage: 61
-    slot: 78
-    item: トゥタティスケープ
+    storage: 0
+    slot: 0
+    item: 0
 - index: 7
   title: 007ThfFC
   items:
@@ -1340,72 +1340,72 @@
     slot: 23
     item: ルッフケープ
 - index: 21
-  title: Set021
+  title: 021BrdMC
   items:
   - index: 1
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 49
+    slot: 28
+    item: カルンウェナン
   - index: 2
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 45
+    slot: 62
+    item: 玄冥盾
   - index: 3
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 45
+    item: ミラクルチアー
   - index: 4
     storage: 0
     slot: 0
     item: 0
   - index: 5
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 6
+    item: ＦＬキャロ+3
   - index: 6
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 4
+    item: ＦＬオングルリヌ+3
   - index: 7
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 10
+    item: ＦＬマンシェト+3
   - index: 8
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 21
+    item: ＦＬラングラヴ+3
   - index: 9
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 2
+    item: ＦＬコテュルヌ+3
   - index: 10
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 45
+    slot: 42
+    item: 月虹の呼び子+1
   - index: 11
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 30
+    item: セールフィベルト+1
   - index: 12
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 45
+    slot: 26
+    item: ノーヴィアピアス
   - index: 13
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 79
+    item: フィリピアス+1
   - index: 14
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 41
+    slot: 73
+    item: 守りの指輪
   - index: 15
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 9
+    item: ゼラチナスリング+1
   - index: 16
-    storage: 0
-    slot: 0
-    item: 0
+    storage: 33
+    slot: 73
+    item: インタラアスケープ
 - index: 22
   title: 022Brd4wk
   items:
@@ -2303,7 +2303,7 @@
   - index: 6
     storage: 33
     slot: 14
-    item: ＢＩジュストコル+3
+    item: ＢＩジュストコル+4
   - index: 7
     storage: 33
     slot: 71
@@ -2370,7 +2370,7 @@
   - index: 6
     storage: 33
     slot: 14
-    item: ＢＩジュストコル+3
+    item: ＢＩジュストコル+4
   - index: 7
     storage: 33
     slot: 71
@@ -3239,9 +3239,9 @@
     slot: 74
     item: ニャメヘルム
   - index: 6
-    storage: 1
-    slot: 30
-    item: ＬＡフラック+3
+    storage: 53
+    slot: 23
+    item: ＬＡフラック+4
   - index: 7
     storage: 33
     slot: 71
@@ -3306,9 +3306,9 @@
     slot: 28
     item: イケンガハット
   - index: 6
-    storage: 1
-    slot: 30
-    item: ＬＡフラック+3
+    storage: 53
+    slot: 23
+    item: ＬＡフラック+4
   - index: 7
     storage: 33
     slot: 71
@@ -3373,17 +3373,17 @@
     slot: 14
     item: マリグナスシャポー
   - index: 6
-    storage: 41
-    slot: 37
-    item: エメットハーネス+1
+    storage: 53
+    slot: 20
+    item: マリグナスタバード
   - index: 7
     storage: 61
     slot: 64
     item: クーリスグローブ
   - index: 8
-    storage: 41
-    slot: 15
-    item: ゾアサブリガ+1
+    storage: 53
+    slot: 46
+    item: マリグナスタイツ
   - index: 9
     storage: 53
     slot: 49
@@ -3393,9 +3393,9 @@
     slot: 33
     item: アンムーヴカラー+1
   - index: 11
-    storage: 41
-    slot: 41
-    item: カシリベルト
+    storage: 61
+    slot: 78
+    item: トランスベルト
   - index: 12
     storage: 41
     slot: 48
@@ -3413,9 +3413,9 @@
     slot: 32
     item: ヴェクサーリング+1
   - index: 16
-    storage: 53
-    slot: 25
-    item: 無の外装
+    storage: 57
+    slot: 13
+    item: カムラスマント
 - index: 52
   title: 052CorRolS
   items:
@@ -3547,9 +3547,9 @@
     slot: 22
     item: メダダリング
   - index: 16
-    storage: 53
-    slot: 25
-    item: 無の外装
+    storage: 57
+    slot: 13
+    item: カムラスマント
 - index: 54
   title: 054CorWiFi
   items:
@@ -3574,9 +3574,9 @@
     slot: 74
     item: ニャメヘルム
   - index: 6
-    storage: 1
-    slot: 30
-    item: ＬＡフラック+3
+    storage: 53
+    slot: 23
+    item: ＬＡフラック+4
   - index: 7
     storage: 33
     slot: 71
@@ -3716,17 +3716,17 @@
     slot: 60
     item: マリグナスグローブ
   - index: 8
-    storage: 41
-    slot: 28
-    item: マリグナスタイツ
+    storage: 53
+    slot: 10
+    item: ＣＳトルーズ+3
   - index: 9
     storage: 53
     slot: 49
     item: マリグナスブーツ
   - index: 10
-    storage: 57
-    slot: 22
-    item: バーシチョーカー+1
+    storage: 53
+    slot: 38
+    item: イスクルゴルゲット
   - index: 11
     storage: 49
     slot: 48
@@ -3744,9 +3744,9 @@
     slot: 60
     item: シーリチリング+1
   - index: 15
-    storage: 41
-    slot: 45
-    item: シーリチリング+1
+    storage: 53
+    slot: 6
+    item: エポナリング
   - index: 16
     storage: 57
     slot: 13
@@ -3909,9 +3909,9 @@
     slot: 45
     item: 妖蟲の髪飾り+1
   - index: 6
-    storage: 1
-    slot: 30
-    item: ＬＡフラック+3
+    storage: 53
+    slot: 23
+    item: ＬＡフラック+4
   - index: 7
     storage: 33
     slot: 71
@@ -4715,7 +4715,7 @@
   - index: 6
     storage: 61
     slot: 54
-    item: ＲＮコート+3
+    item: ＲＮコート+4
   - index: 7
     storage: 57
     slot: 70
@@ -4729,9 +4729,9 @@
     slot: 25
     item: ＥＲグリーヴ+3
   - index: 10
-    storage: 53
-    slot: 71
-    item: バーシチョーカー+1
+    storage: 61
+    slot: 47
+    item: フサルクトルク+2
   - index: 11
     storage: 41
     slot: 55
@@ -4816,9 +4816,9 @@
     slot: 26
     item: シャドウリング
   - index: 15
-    storage: 33
-    slot: 9
-    item: ゼラチナスリング+1
+    storage: 49
+    slot: 32
+    item: ヴェクサーリング+1
   - index: 16
     storage: 41
     slot: 69
@@ -5182,9 +5182,9 @@
     slot: 47
     item: 無の面
   - index: 6
-    storage: 33
-    slot: 1
-    item: ニャメメイル
+    storage: 61
+    slot: 54
+    item: ＲＮコート+4
   - index: 7
     storage: 33
     slot: 68
@@ -6389,28 +6389,28 @@
     item: ＣＶアーメット+3
   - index: 6
     storage: 57
-    slot: 38
-    item: ＲＶサーコート+3
+    slot: 23
+    item: ＲＶサーコート+4
   - index: 7
     storage: 41
     slot: 79
     item: 王将の篭手
   - index: 8
-    storage: 49
-    slot: 61
-    item: ファウンダホーズ
+    storage: 57
+    slot: 50
+    item: ＣＢブリーチズ+3
   - index: 9
-    storage: 41
-    slot: 2
+    storage: 57
+    slot: 37
     item: オディシアグリーヴ
   - index: 10
     storage: 57
     slot: 71
     item: 月光の首飾り
   - index: 11
-    storage: 33
-    slot: 48
-    item: プラチナモグベルト
+    storage: 57
+    slot: 78
+    item: オドンブラサッシュ
   - index: 12
     storage: 41
     slot: 40
@@ -6421,8 +6421,8 @@
     item: 磁界の耳
   - index: 14
     storage: 41
-    slot: 73
-    item: 守りの指輪
+    slot: 22
+    item: メダダリング
   - index: 15
     storage: 33
     slot: 9
@@ -6455,9 +6455,9 @@
     slot: 21
     item: ロースバルブータ+1
   - index: 6
-    storage: 53
-    slot: 4
-    item: ＲＶサーコート+3
+    storage: 57
+    slot: 23
+    item: ＲＶサーコート+4
   - index: 7
     storage: 53
     slot: 3
@@ -6495,8 +6495,8 @@
     slot: 9
     item: ゼラチナスリング+1
   - index: 16
-    storage: 33
-    slot: 51
+    storage: 57
+    slot: 64
     item: ルディアノスマント
 - index: 98
   title: 098PldPhara
@@ -6585,33 +6585,33 @@
     slot: 42
     item: ストンチタスラム+1
   - index: 5
-    storage: 49
-    slot: 50
-    item: ＳＶシャレル+1
+    storage: 57
+    slot: 47
+    item: ＣＶアーメット+3
   - index: 6
     storage: 57
     slot: 45
     item: ＣＶキュイラス+3
   - index: 7
-    storage: 49
-    slot: 24
-    item: サクパタガントレ
+    storage: 57
+    slot: 55
+    item: マカブルガントレ+1
   - index: 8
     storage: 57
-    slot: 42
-    item: ＣＶクウィス+3
+    slot: 50
+    item: ＣＢブリーチズ+3
   - index: 9
-    storage: 41
-    slot: 2
+    storage: 57
+    slot: 37
     item: オディシアグリーヴ
   - index: 10
     storage: 57
     slot: 71
     item: 月光の首飾り
   - index: 11
-    storage: 53
-    slot: 73
-    item: スローダベルト
+    storage: 33
+    slot: 48
+    item: プラチナモグベルト
   - index: 12
     storage: 41
     slot: 40
@@ -6621,13 +6621,13 @@
     slot: 63
     item: 磁界の耳
   - index: 14
-    storage: 41
-    slot: 73
-    item: 守りの指輪
-  - index: 15
-    storage: 41
-    slot: 46
+    storage: 33
+    slot: 66
     item: 月光の指輪
+  - index: 15
+    storage: 33
+    slot: 43
+    item: ゼラチナスリング+1
   - index: 16
     storage: 45
     slot: 46
@@ -7173,8 +7173,8 @@
   items:
   - index: 1
     storage: 45
-    slot: 1
-    item: ボレラブンガ
+    slot: 13
+    item: ガーダ
   - index: 2
     storage: 45
     slot: 3
@@ -7188,13 +7188,13 @@
     slot: 50
     item: ストンチタスラム+1
   - index: 5
-    storage: 45
-    slot: 61
-    item: インヤガティアラ+2
+    storage: 41
+    slot: 7
+    item: テルキネキャップ
   - index: 6
-    storage: 33
-    slot: 47
-    item: ＰＩブリオー+3
+    storage: 41
+    slot: 18
+    item: テルキネシャジュブ
   - index: 7
     storage: 33
     slot: 45
@@ -9395,9 +9395,9 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 49
-    slot: 1
-    item: イェットシーラ+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 5
     storage: 33
     slot: 74
@@ -9557,9 +9557,9 @@
     slot: 2
     item: 戦士の数珠+2
   - index: 11
-    storage: 49
-    slot: 48
-    item: セールフィベルト+1
+    storage: 53
+    slot: 62
+    item: フォシャベルト
   - index: 12
     storage: 49
     slot: 17
@@ -9570,8 +9570,8 @@
     item: スラッドピアス
   - index: 14
     storage: 49
-    slot: 63
-    item: エパミノダスリング
+    slot: 28
+    item: ニックマドゥリング
   - index: 15
     storage: 49
     slot: 49
@@ -9692,8 +9692,8 @@
     item: 戦士の数珠+2
   - index: 11
     storage: 49
-    slot: 6
-    item: ケンタークベルト+1
+    slot: 48
+    item: セールフィベルト+1
   - index: 12
     storage: 49
     slot: 17
@@ -10140,29 +10140,29 @@
     slot: 6
     item: ＰＭマスク+3
   - index: 6
-    storage: 49
-    slot: 77
-    item: エメットハーネス+1
+    storage: 61
+    slot: 27
+    item: ＳＶキュイラス+1
   - index: 7
     storage: 33
     slot: 57
     item: ＰＭマフラ+3
   - index: 8
-    storage: 49
-    slot: 22
-    item: ゾアサブリガ+1
+    storage: 61
+    slot: 80
+    item: ＳＶディヒリン+1
   - index: 9
     storage: 49
     slot: 22
     item: ＳＶシュー+1
   - index: 10
-    storage: 33
-    slot: 78
-    item: アンムーヴカラー+1
+    storage: 57
+    slot: 71
+    item: 月光の首飾り
   - index: 11
-    storage: 41
-    slot: 39
-    item: オドンブラサッシュ
+    storage: 61
+    slot: 78
+    item: トランスベルト
   - index: 12
     storage: 41
     slot: 67
@@ -10685,36 +10685,36 @@
     item: サクパタガントレ
   - index: 8
     storage: 49
-    slot: 61
-    item: ファウンダホーズ
+    slot: 26
+    item: サクパタクウィス
   - index: 9
-    storage: 41
-    slot: 2
+    storage: 57
+    slot: 37
     item: オディシアグリーヴ
   - index: 10
-    storage: 41
-    slot: 11
-    item: オルンミラトルク
+    storage: 57
+    slot: 71
+    item: 月光の首飾り
   - index: 11
-    storage: 45
-    slot: 17
-    item: ニヌルタサッシュ
+    storage: 57
+    slot: 78
+    item: オドンブラサッシュ
   - index: 12
     storage: 41
     slot: 71
     item: 磁界の耳
   - index: 13
     storage: 41
-    slot: 71
-    item: エンチャンピアス+1
+    slot: 27
+    item: ロケイシャスピアス
   - index: 14
     storage: 41
     slot: 73
     item: 守りの指輪
   - index: 15
-    storage: 41
-    slot: 22
-    item: メダダリング
+    storage: 33
+    slot: 43
+    item: ゼラチナスリング+1
   - index: 16
     storage: 49
     slot: 77
@@ -11323,7 +11323,7 @@
     slot: 16
     item: ナントセルタケープ
 - index: 170
-  title: 170SamEWS
+  title: Set170
   items:
   - index: 1
     storage: 0
@@ -11338,57 +11338,57 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 49
-    slot: 11
-    item: ノブキエリ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 5
-    storage: 1
-    slot: 21
-    item: ムパカキャップ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 6
-    storage: 33
-    slot: 1
-    item: ニャメメイル
+    storage: 0
+    slot: 0
+    item: 0
   - index: 7
-    storage: 33
-    slot: 71
-    item: ニャメガントレ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 8
-    storage: 33
-    slot: 55
-    item: ニャメフランチャ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 9
-    storage: 33
-    slot: 8
-    item: ニャメソルレット
+    storage: 0
+    slot: 0
+    item: 0
   - index: 10
-    storage: 45
-    slot: 31
-    item: シビルスカーフ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 11
-    storage: 49
-    slot: 63
-    item: オルペウスサッシュ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 12
-    storage: 49
-    slot: 17
-    item: 胡蝶のイヤリング
+    storage: 0
+    slot: 0
+    item: 0
   - index: 13
-    storage: 1
-    slot: 13
-    item: 春日耳飾り改
+    storage: 0
+    slot: 0
+    item: 0
   - index: 14
-    storage: 49
-    slot: 65
-    item: エパミノダスリング
+    storage: 0
+    slot: 0
+    item: 0
   - index: 15
-    storage: 41
-    slot: 22
-    item: メダダリング
+    storage: 0
+    slot: 0
+    item: 0
   - index: 16
-    storage: 53
-    slot: 25
-    item: 無の外装
+    storage: 0
+    slot: 0
+    item: 0
 - index: 171
   title: 171RngAA
   items:
@@ -11725,74 +11725,74 @@
     slot: 32
     item: メシストピンマント
 - index: 176
-  title: 176SamAA
+  title: Set176
   items:
   - index: 1
-    storage: 1
-    slot: 8
-    item: 童子切安綱
+    storage: 0
+    slot: 0
+    item: 0
   - index: 2
-    storage: 49
-    slot: 43
-    item: コーンスー
+    storage: 0
+    slot: 0
+    item: 0
   - index: 3
     storage: 0
     slot: 0
     item: 0
   - index: 4
-    storage: 49
-    slot: 73
-    item: オゲルミルオーブ+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 5
-    storage: 33
-    slot: 27
-    item: ニャメヘルム
+    storage: 0
+    slot: 0
+    item: 0
   - index: 6
-    storage: 33
-    slot: 1
-    item: ニャメメイル
+    storage: 0
+    slot: 0
+    item: 0
   - index: 7
-    storage: 33
-    slot: 71
-    item: ニャメガントレ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 8
-    storage: 33
-    slot: 55
-    item: ニャメフランチャ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 9
-    storage: 33
-    slot: 8
-    item: ニャメソルレット
+    storage: 0
+    slot: 0
+    item: 0
   - index: 10
-    storage: 57
-    slot: 69
-    item: 無の喉輪
+    storage: 0
+    slot: 0
+    item: 0
   - index: 11
-    storage: 49
-    slot: 47
-    item: ソードフェーテル+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 12
-    storage: 49
-    slot: 67
-    item: ディグニタリピアス
+    storage: 0
+    slot: 0
+    item: 0
   - index: 13
-    storage: 1
-    slot: 13
-    item: 春日耳飾り改
+    storage: 0
+    slot: 0
+    item: 0
   - index: 14
-    storage: 33
-    slot: 60
-    item: シーリチリング+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 15
-    storage: 41
-    slot: 45
-    item: シーリチリング+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 16
-    storage: 53
-    slot: 25
-    item: 無の外装
+    storage: 0
+    slot: 0
+    item: 0
 - index: 177
-  title: 177SamWS
+  title: Set177
   items:
   - index: 1
     storage: 0
@@ -11807,57 +11807,57 @@
     slot: 0
     item: 0
   - index: 4
-    storage: 49
-    slot: 11
-    item: ノブキエリ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 5
-    storage: 1
-    slot: 21
-    item: ムパカキャップ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 6
-    storage: 33
-    slot: 1
-    item: ニャメメイル
+    storage: 0
+    slot: 0
+    item: 0
   - index: 7
-    storage: 33
-    slot: 71
-    item: ニャメガントレ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 8
-    storage: 33
-    slot: 55
-    item: ニャメフランチャ
+    storage: 0
+    slot: 0
+    item: 0
   - index: 9
-    storage: 33
-    slot: 8
-    item: ニャメソルレット
+    storage: 0
+    slot: 0
+    item: 0
   - index: 10
-    storage: 57
-    slot: 69
-    item: 無の喉輪
+    storage: 0
+    slot: 0
+    item: 0
   - index: 11
-    storage: 49
-    slot: 48
-    item: セールフィベルト+1
+    storage: 0
+    slot: 0
+    item: 0
   - index: 12
-    storage: 49
-    slot: 17
-    item: 胡蝶のイヤリング
+    storage: 0
+    slot: 0
+    item: 0
   - index: 13
-    storage: 1
-    slot: 13
-    item: 春日耳飾り改
+    storage: 0
+    slot: 0
+    item: 0
   - index: 14
-    storage: 49
-    slot: 65
-    item: エパミノダスリング
+    storage: 0
+    slot: 0
+    item: 0
   - index: 15
-    storage: 49
-    slot: 49
-    item: 王将の指輪
+    storage: 0
+    slot: 0
+    item: 0
   - index: 16
-    storage: 53
-    slot: 25
-    item: 無の外装
+    storage: 0
+    slot: 0
+    item: 0
 - index: 178
   title: 178DrkAA
   items:
@@ -13291,7 +13291,7 @@
   - index: 6
     storage: 53
     slot: 23
-    item: ＬＡフラック+3
+    item: ＬＡフラック+4
   - index: 7
     storage: 53
     slot: 47
