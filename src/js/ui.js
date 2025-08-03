@@ -2,16 +2,15 @@ function buildIndexPage(container, mcData) {
   const $fragment = $(document.createDocumentFragment());
   
   // タイトル
-  const $title = $('<h1>').text('マクロブック | FF11 空賊団員之航空日誌');
+  const $title = $('<h1>').text('FFXI Macro & Equipment Set Viewer');
   $fragment.append($title);
   
   // 説明
   const $description = $('<ul>');
-  $description.append($('<li>').html('<a href="https://sharks-diary.blogspot.com/" target="_blank">FF11 空賊団員之航空日誌</a>のマクロ・装備セットを表示します。'));
-  $description.append($('<li>').text('気が向いたときに更新します'));
-  $description.append($('<li>').text('オーグメントは元データに入っていないため非対応です。'));
-  $description.append($('<li>').text('日記で紹介した内容と合わない部分があるかもしれません。'));
-  $description.append($('<li>').text('スマホ表示時（横幅が狭い場合）表示が崩れるかもしれません。'));
+  $description.append($('<li>').text('Final Fantasy XI のマクロと装備セットを表示するWebアプリケーションです。'));
+  $description.append($('<li>').text('マクロ内容と関連する装備セットを統合して表示します。'));
+  $description.append($('<li>').text('オーグメント情報は元データに含まれていないため表示されません。'));
+  $description.append($('<li>').text('モバイル表示時は一部レイアウトが調整されます。'));
   $fragment.append($description);
   
   // セクション一覧
