@@ -1,4 +1,4 @@
-
+/* 既存のボタンスタイル（後方互換性のため残す） */
 .button-container {
   display: flex;
   flex-wrap: wrap;
@@ -34,6 +34,164 @@
   cursor: default;
 }
 
+/* 新しいレイアウト用スタイル */
+#content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* インデックスページ */
+.section-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+  margin-top: 30px;
+}
+
+.section-link {
+  display: block;
+  padding: 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 16px;
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.section-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+/* ナビゲーション */
+.navigation {
+  margin-bottom: 20px;
+  padding: 10px 0;
+  border-bottom: 2px solid #eee;
+}
+
+.navigation a {
+  color: #007BFF;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.navigation a:hover {
+  text-decoration: underline;
+}
+
+/* マクロカード */
+.macro-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.macro-title {
+  color: #333;
+  margin: 0 0 15px 0;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #4CAF50;
+  font-size: 18px;
+}
+
+.macro-content {
+  background: #f8f9fa;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.macro-line {
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  line-height: 1.4;
+  margin: 5px 0;
+  padding: 2px 0;
+}
+
+/* 装備セット情報 */
+.equipset-section {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #eee;
+}
+
+.equipset-section h4 {
+  color: #666;
+  margin: 0 0 15px 0;
+  font-size: 16px;
+}
+
+.equipset-card {
+  background: #f0f8ff;
+  border: 1px solid #b3d9ff;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  padding: 15px;
+}
+
+.equipset-header {
+  font-weight: bold;
+  color: #0066cc;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.equipset-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2px;
+  max-width: 600px;
+  margin: 10px 0;
+}
+
+.equipset-slot {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  background: white;
+  text-align: center;
+  min-height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.equipset-slot.empty-slot {
+  background: #f5f5f5;
+  color: #999;
+}
+
+.slot-name {
+  font-size: 11px;
+  font-weight: bold;
+  color: #666;
+  margin-bottom: 4px;
+}
+
+.item-name {
+  font-size: 12px;
+  color: #333;
+  word-wrap: break-word;
+  line-height: 1.2;
+}
+
+.equipset-slot.empty-slot .item-name {
+  color: #999;
+  font-style: italic;
+}
+
+/* 既存のTOCスタイル */
 #toc {
   display: none;
   position: fixed;
@@ -90,4 +248,37 @@
   cursor: pointer;
   z-index: 1600;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* レスポンシブデザイン */
+@media (max-width: 768px) {
+  #content {
+    padding: 10px;
+  }
+  
+  .section-list {
+    grid-template-columns: 1fr;
+  }
+  
+  .equipset-grid {
+    max-width: 100%;
+    gap: 1px;
+  }
+  
+  .equipset-slot {
+    padding: 6px;
+    min-height: 50px;
+  }
+  
+  .slot-name {
+    font-size: 10px;
+  }
+  
+  .item-name {
+    font-size: 11px;
+  }
+  
+  .macro-card {
+    padding: 15px;
+  }
 }

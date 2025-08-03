@@ -10,7 +10,23 @@ $(async function() {
       return;
     }
 
-    initializeUI(mcData, eqData);
+    // URLパラメータから表示するセクションを取得
+    const urlParams = new URLSearchParams(window.location.search);
+    const sectionIndex = urlParams.get('section');
+    
+    if (sectionIndex) {
+      // 特定のセクションを表示
+      const section = mcData.find(s => s.index == sectionIndex);
+      if (section) {
+        initializeSectionUI(section, eqData, mcData);
+      } else {
+        alert('指定されたセクションが見つかりません');
+        window.location.href = 'index.html';
+      }
+    } else {
+      // インデックスページを表示
+      initializeIndexUI(mcData);
+    }
 
   } catch (error) {
     console.error('データの読み込みに失敗しました:', error);
@@ -25,10 +41,11 @@ async function fetchAndProcessYaml(url) {
   return jsyaml.load(yamlText);
 }
 
-function initializeUI(mcData, eqData) {
-  buildTableOfContents('#toc', mcData);
-  buildMacroSections('#macroContent', mcData, eqData);
+function initializeIndexUI(mcData) {
+  buildIndexPage('#content', mcData);
+}
 
+function initializeSectionUI(section, eqData, mcData) {
+  buildSectionPage('#content', section, eqData, mcData);
   $('#overlay').on('click', closeModal);
-  $('#tocToggleBtn').on('click', () => $('#toc').toggle());
 }

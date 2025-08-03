@@ -1,68 +1,193 @@
-function buildTableOfContents(container, mcData) {
-  const $tocList = $('<ul>');
-  mcData.forEach((section, index) => {
-    const sectionTitle = section.name || `【${index + 1}】`;
-    const sectionId = `section-${(section.name || index + 1).toString().replace(/\s/g, '_')}`;
-    const $tocItem = $('<li>');
-    const $tocLink = $('<a>').attr('href', `#${sectionId}`).text(sectionTitle);
-    $tocItem.append($tocLink).appendTo($tocList);
+function buildIndexPage(container, mcData) {
+  const $fragment = $(document.createDocumentFragment());
+  
+  // タイトル
+  const $title = $('<h1>').text('マクロブック | FF11 空賊団員之航空日誌');
+  $fragment.append($title);
+  
+  // 説明
+  const $description = $('<ul>');
+  $description.append($('<li>').html('<a href="https://sharks-diary.blogspot.com/" target="_blank">FF11 空賊団員之航空日誌</a>のマクロ・装備セットを表示します。'));
+  $description.append($('<li>').text('気が向いたときに更新します'));
+  $description.append($('<li>').text('オーグメントは元データに入っていないため非対応です。'));
+  $description.append($('<li>').text('日記で紹介した内容と合わない部分があるかもしれません。'));
+  $description.append($('<li>').text('スマホ表示時（横幅が狭い場合）表示が崩れるかもしれません。'));
+  $fragment.append($description);
+  
+  // セクション一覧
+  const $sectionList = $('<div>').addClass('section-list');
+  mcData.forEach((section) => {
+    const sectionTitle = section.name || `【${section.index}】`;
+    const $sectionLink = $('<a>')
+      .attr('href', `?section=${section.index}`)
+      .addClass('section-link')
+      .text(sectionTitle);
+    $sectionList.append($sectionLink);
   });
-  $(container).append($tocList);
+  $fragment.append($sectionList);
+  
+  $(container).html($fragment);
 }
 
-function buildMacroSections(container, mcData, eqData) {
+function buildSectionPage(container, section, eqData, mcData) {
   const $fragment = $(document.createDocumentFragment());
-  let buttonCount = 0;
+  
+  // ナビゲーション
+  const $nav = $('<div>').addClass('navigation');
+  const $backLink = $('<a>').attr('href', 'index.html').text('← 一覧に戻る');
+  $nav.append($backLink);
+  
+  // 前後のセクションへのリンク
+  const currentIndex = section.index;
+  const prevSection = mcData.find(s => s.index === currentIndex - 1);
+  const nextSection = mcData.find(s => s.index === currentIndex + 1);
+  
+  if (prevSection) {
+    const $prevLink = $('<a>')
+      .attr('href', `?section=${prevSection.index}`)
+      .text(`← ${prevSection.name || `【${prevSection.index}】`}`);
+    $nav.append(' | ').append($prevLink);
+  }
+  
+  if (nextSection) {
+    const $nextLink = $('<a>')
+      .attr('href', `?section=${nextSection.index}`)
+      .text(`${nextSection.name || `【${nextSection.index}】`} →`);
+    $nav.append(' | ').append($nextLink);
+  }
+  
+  $fragment.append($nav);
+  
+  // セクションタイトル
+  const sectionTitle = section.name || `【${section.index}】`;
+  const $heading = $('<h1>').text(sectionTitle);
+  $fragment.append($heading);
+  
+  // マクロ表示
+  buildMacroDisplay($fragment, section, eqData);
+  
+  $(container).html($fragment);
+}
 
-  const isMobile = window.innerWidth <= 600;
-  const breakAfter = isMobile ? 5 : 10;
-
-  mcData.forEach((section, index) => {
-    const sectionTitle = section.name || `【${index + 1}】`;
-    const sectionId = `section-${(section.name || index + 1).toString().replace(/\s/g, '_')}`;
-    const $heading = $('<h2>').text(sectionTitle).attr('id', sectionId);
-    $fragment.append($heading);
-
-    let $buttonsContainer = createButtonContainer();
-    section.palettes.forEach((palette) => {
-      palette.macros.forEach((macro) => {
-        const $button = createMacroButton(macro, buttonCount, eqData);
-        $buttonsContainer.append($button);
-        buttonCount++;
-
-        if (buttonCount % 20 === 0) {
-          $fragment.append($buttonsContainer).append('<hr>');
-          $buttonsContainer = createButtonContainer();
-        } else if (buttonCount % breakAfter === 0) {
-          $fragment.append($buttonsContainer);
-          $buttonsContainer = createButtonContainer();
+function buildMacroDisplay($container, section, eqData) {
+  section.palettes.forEach((palette) => {
+    palette.macros.forEach((macro) => {
+      if (!macro.title.trim() || !macro.lines || macro.lines.length === 0) {
+        return; // 空のマクロはスキップ
+      }
+      
+      const $macroCard = $('<div>').addClass('macro-card');
+      
+      // マクロタイトル
+      const $title = $('<h3>').addClass('macro-title').text(macro.title);
+      $macroCard.append($title);
+      
+      // マクロ内容
+      const $content = $('<div>').addClass('macro-content');
+      macro.lines.forEach((line, index) => {
+        if (line.trim()) {
+          const $line = $('<div>').addClass('macro-line');
+          
+          // HTMLエスケープ
+          let escapedLine = escapeHtml(line);
+          
+          // 【】の色付け
+          escapedLine = escapedLine.replace(/【/g, '<span style="color:green;">【</span>');
+          escapedLine = escapedLine.replace(/】/g, '<span style="color:red;">】</span>');
+          
+          $line.html(`${index + 1}: ${escapedLine}`);
+          $content.append($line);
         }
       });
+      $macroCard.append($content);
+      
+      // 装備セット情報を追加
+      const equipsetInfo = extractEquipsetInfo(macro.lines, eqData);
+      if (equipsetInfo.length > 0) {
+        const $equipsetSection = $('<div>').addClass('equipset-section');
+        const $equipsetTitle = $('<h4>').text('参照装備セット:');
+        $equipsetSection.append($equipsetTitle);
+        
+        equipsetInfo.forEach(info => {
+          const $equipsetCard = $('<div>').addClass('equipset-card');
+          const $equipsetHeader = $('<div>').addClass('equipset-header')
+            .text(`装備セット ${info.index}: ${info.title || '(無題)'}`);
+          $equipsetCard.append($equipsetHeader);
+          
+          const $equipsetGrid = $('<div>').addClass('equipset-grid');
+          
+          // 4x4グリッドの配置順序
+          const gridOrder = [
+            1, 2, 3, 4,    // メイン、サブ、遠隔、矢弾
+            5, 10, 12, 13, // 頭、首、左耳、右耳
+            6, 7, 14, 15,  // 胴、両手、左指、右指
+            16, 11, 8, 9   // 背、腰、脚、足
+          ];
+          
+          gridOrder.forEach(slotIndex => {
+            const item = info.items.find(i => i.index === slotIndex);
+            const $slot = $('<div>').addClass('equipset-slot');
+            
+            const slotName = getSlotName(slotIndex);
+            const itemName = (item && item.item && item.item !== '0' && item.item.trim()) 
+              ? item.item 
+              : '(空)';
+            
+            $slot.html(`<div class="slot-name">${slotName}</div><div class="item-name">${itemName}</div>`);
+            
+            if (itemName === '(空)') {
+              $slot.addClass('empty-slot');
+            }
+            
+            $equipsetGrid.append($slot);
+          });
+          
+          $equipsetCard.append($equipsetGrid);
+          $equipsetSection.append($equipsetCard);
+        });
+        
+        $macroCard.append($equipsetSection);
+      }
+      
+      $container.append($macroCard);
     });
+  });
+}
 
-    if ($buttonsContainer.children().length > 0) {
-      $fragment.append($buttonsContainer);
+function extractEquipsetInfo(lines, eqData) {
+  const equipsetNumbers = [];
+  const equipsetRegex = /\/equipset\s+(\d+)|\/lockstyleset\s+(\d+)/g;
+  
+  lines.forEach(line => {
+    let match;
+    while ((match = equipsetRegex.exec(line)) !== null) {
+      const number = parseInt(match[1] || match[2]);
+      if (!equipsetNumbers.includes(number)) {
+        equipsetNumbers.push(number);
+      }
     }
   });
-  $(container).append($fragment);
+  
+  return equipsetNumbers.map(num => {
+    return eqData.find(eq => eq.index === num);
+  }).filter(eq => eq !== undefined);
 }
 
-function createButtonContainer() {
-  return $('<div>').addClass('button-container');
+function getSlotName(index) {
+  const slotNames = {
+    1: 'メイン', 2: 'サブ', 3: '遠隔', 4: '矢弾',
+    5: '頭', 6: '胴', 7: '両手', 8: '脚',
+    9: '足', 10: '首', 11: '腰', 12: '左耳',
+    13: '右耳', 14: '左指', 15: '右指', 16: '背'
+  };
+  return slotNames[index] || `スロット${index}`;
 }
 
-function createMacroButton(macro, buttonCount, eqData) {
-  const $button = $('<button>').addClass('macro-button').text(macro.title);
-
-  $button.addClass((Math.floor(buttonCount / 10) % 2 === 0) ? 'color-set-1' : 'color-set-2');
-
-  const isDataEmpty = !macro.lines || macro.lines.length === 0;
-  const isTitleEmpty = !macro.title.trim();
-
-  if (isDataEmpty || isTitleEmpty) {
-    $button.addClass('disabled').prop('disabled', true);
-  } else {
-    $button.on('click', () => openModal(macro.lines, macro.title, eqData));
-  }
-  return $button;
+function escapeHtml(text) {
+  const map = {
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;'
+  };
+  return text.replace(/[&<>]/g, (m) => map[m]);
 }
